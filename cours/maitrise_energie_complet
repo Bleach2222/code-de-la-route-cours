@@ -1,0 +1,52 @@
+{
+  "id": "maitrise-energie-tunisie",
+  "titre": "Maîtrise de l'Énergie et Conduite Rationnelle",
+  "langue": "fr",
+  "temps_lecture": "3 min",
+  "direction": "ltr",
+  "sections": [
+    {
+      "type": "introduction",
+      "valeur": "La réglementation intègre la maîtrise de l'énergie et la conduite rationnelle comme des piliers essentiels de la sécurité routière et de la protection de l'environnement. La consommation d'énergie est une obligation de connaissance légale."
+    },
+    {
+      "type": "titre_h2",
+      "valeur": "1. Charge et Aérodynamisme"
+    },
+    {
+      "type": "paragraphe",
+      "valeur": "Transporter de lourdes charges consomme du carburant. Pour limiter cette consommation :"
+    },
+    {
+      "type": "liste",
+      "items": [
+        "Ne roulez pas avec un porte-bagages vide.",
+        "Ne transportez pas de poids inutile et videz votre coffre.",
+        "Utilisez une remorque pour le transport d’objets encombrants.",
+        "Privilégiez un râtelier à vélos à l’arrière plutôt qu’un porte-vélos sur le toit car les galeries et coffres à skis augmentent la consommation.",
+        "Gardez les vitres fermées car les ouvrir accroît la consommation de carburant."
+      ]
+    },
+    {
+      "type": "titre_h2",
+      "valeur": "2. Consommation Électrique"
+    },
+    {
+      "type": "conseil",
+      "valeur": "L’utilisation de courant consomme du carburant. Éteignez les appareils énergivores tels que le dégivrage arrière et la climatisation (airco) dès qu'ils ne sont plus nécessaires."
+    },
+    {
+      "type": "titre_h2",
+      "valeur": "3. Entretien et Pneumatiques"
+    },
+    {
+      "type": "liste",
+      "items": [
+        "Un moteur mal réglé ou un filtre à air encrassé consomment inutilement du carburant.",
+        "Une pression des pneus trop faible augmente la consommation ; vérifiez-la chaque mois.",
+        "Les pneus hiver consomment davantage, remplacez-les à temps.",
+        "Le conducteur doit veiller au bon état des organes (freins, moteur, pneus) pour respecter l'environnement."
+      ]
+    }
+  ]
+}
