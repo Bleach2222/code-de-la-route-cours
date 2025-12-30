@@ -1,82 +1,87 @@
 {
-  "id": "environnement-tunisie",
-  "titre": "حماية البيئة في مجلة الطرقات التونسية",
-  "langue": "ar",
+  "id": "environnement-tunisie-fr",
+  "titre": "Protection de l'Environnement et Code de la Route",
+  "langue": "fr",
   "sections": [
     {
       "type": "paragraphe",
-      "valeur": "تفرض مجلة الطرقات التونسية والنصوص التطبيقية متاعها قواعد واضحة تهدف إلى حماية البيئة وترشيد استهلاك الطاقة أثناء السياقة، ويجب على كل سائق احترامها."
+      "valeur": "En Tunisie, le Code de la route et ses textes d'application imposent des règles strictes pour protéger l'environnement et promouvoir une gestion rationnelle des ressources énergétiques lors de la conduite."
     },
     {
       "type": "titre_h2",
-      "valeur": "1. الوقاية من تلوّث الهواء"
+      "valeur": "1. Prévention de la pollution atmosphérique"
     },
     {
       "type": "paragraphe",
-      "valeur": "يُمنع على العربات ذات المحركات إخراج دخان أو غازات سامة أو كريهة من شأنها إزعاج مستعملي الطريق أو الإضرار بالصحة العامة أو بالبيئة."
+      "valeur": "Les véhicules à moteur ne doivent pas émettre de fumées, de gaz toxiques, corrosifs ou odorants susceptibles d'incommoder les usagers ou de nuire à la santé publique."
     },
     {
       "type": "image_illustrative",
-      "url": "https://github.com/Bleach2222/code-de-la-route-cours/images/environnement_image1.png",
-      "legende": "رسم توضيحي: الحدود القانونية لعتامة الدخان حسب نوع العربة"
+      "url": "https://votre-pseudo.github.io/code_route_api/images/smoke_limits_fr.png",
+      "legende": "Infographie : Seuils d'opacité des fumées par catégorie de véhicule"
     },
     {
       "type": "details_technique",
       "items": [
-        "**محركات الديزل:** يجب ألا تتجاوز عتامة الدخان الحدود القانونية (من 40 إلى 60 وحدة حسب نوع العربة).",
-        "**محركات البنزين:** لا يجب أن تتجاوز نسبة أحادي أكسيد الكربون المنبعثة 4.5%."
+        "**Moteurs Diesel :** Seuils d'opacité allant de 40 unités (voitures) à 60 unités (tracteurs/engins).",
+        "**Moteurs Essence :** Le taux de monoxyde de carbone au ralenti ne doit pas dépasser **4,5 %**."
       ]
     },
     {
       "type": "conseil",
-      "valeur": "يجب على السائق إطفاء المحرك عند التوقف، إلا في حالة الضرورة القصوى."
+      "valeur": "Obligation de couper le moteur lors du stationnement, sauf nécessité absolue."
     },
     {
       "type": "titre_h2",
-      "valeur": "2. مقاومة الضجيج"
+      "valeur": "2. Lutte contre les nuisances sonores"
     },
     {
       "type": "liste",
       "items": [
-        "يجب أن تكون كل عربة مجهّزة بجهاز عادم صامت وفي حالة تشغيل سليمة.",
-        "يُمنع نزع جهاز كتم الصوت أو إنقاص فعاليته.",
-        "الحدود القانونية: 74 ديسيبل للسيارات الخاصة و80 ديسيبل للشاحنات."
+        "Dispositif d'échappement silencieux obligatoire et en bon état.",
+        "Plafond de **74 décibels** pour une voiture particulière.",
+        "Plafond de **80 décibels** pour un camion ou un tracteur routier."
       ]
     },
     {
       "type": "titre_h2",
-      "valeur": "3. ترشيد استهلاك الطاقة"
+      "valeur": "3. Maîtrise de l'énergie et conduite rationnelle"
     },
     {
       "type": "paragraphe",
-      "valeur": "تشجّع الدولة استعمال الطاقات النظيفة، حيث يُمنح وزن إضافي قدره طن واحد للعربات التي تعمل بالكهرباء أو بالغاز الطبيعي (GNC)."
-    },
-    {
-      "type": "titre_h2",
-      "valeur": "4. حماية الطريق ونظافتها"
+      "valeur": "La législation intègre la dimension environnementale dès la formation : l'épreuve théorique porte obligatoirement sur la maîtrise de l'énergie."
     },
     {
       "type": "info",
-      "valeur": "يُمنع رمي أو ترك أي جسم على الطريق. يجب الحرص على عدم تسرّب السوائل، خاصة الزيوت."
+      "valeur": "Énergies alternatives : Un bonus de **1 tonne** sur le poids total autorisé est accordé aux véhicules Électriques, GNC ou GPL."
     },
     {
       "type": "titre_h2",
-      "valeur": "5. المراقبة والعقوبات"
+      "valeur": "4. Protection de la chaussée et propreté"
+    },
+    {
+      "type": "liste",
+      "items": [
+        "Interdiction de jeter ou d'abandonner des objets sur la route.",
+        "Veiller à l'absence de fuites de liquides (huile, etc.).",
+        "S'assurer qu'aucune partie du chargement ne se disperse."
+      ]
+    },
+    {
+      "type": "titre_h2",
+      "valeur": "5. Contrôles et Sanctions"
     },
     {
       "type": "alerte",
-      "valeur": "يمكن إيقاف العربة فورًا عن الجولان إذا تجاوزت نسب التلوث أو الضجيج الحدود القانونية بنسبة تساوي أو تفوق 50%."
+      "valeur": "Immobilisation immédiate du véhicule si le dépassement des seuils de pollution ou de bruit atteint ou dépasse **50 %**."
     },
     {
       "type": "resume_examen",
-      "titre": "📌 خلاصة للامتحان النظري",
+      "titre": "📌 Points clés pour l'examen",
       "points": [
-        "ممنوع الدخان الكثيف والضجيج المرتفع",
-        "إطفاء المحرك عند التوقف",
-        "جهاز العادم السليم إجباري",
-        "حماية الطريق واجب قانوني",
-        "السياقة الاقتصادية جزء من الامتحان"
+        "Fumées opaques et bruit excessif interdits",
+        "Arrêt du moteur obligatoire au stationnement",
+        "Échappement silencieux maintenu en bon état",
+        "Maîtrise de l'énergie : sujet obligatoire à l'épreuve théorique",
+        "Sanction lourde (+50% de dépassement = immobilisation)"
       ]
-    }
-  ]
-}
