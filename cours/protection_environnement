@@ -18,9 +18,9 @@
     },
     {
       "type": "image_illustrative",
-      "url": "https://github.com/Bleach2222/code-de-la-route-cours/blob/main/images/environnement_image1.png",
+      "url": "https://github.com/Bleach2222/code-de-la-route-cours/main/images/environnement_image1.png",
       "legende": "Seuils d'opacité de fumée par catégorie de véhicule (مجلة الطرقات التونسية)"
-      
+
     },
     {
       "type": "details_technique",
