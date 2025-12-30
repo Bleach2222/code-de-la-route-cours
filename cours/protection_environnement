@@ -1,89 +1,86 @@
 {
-  "id": "environnement-tunisie-fr",
-  "titre": "Protection de l'Environnement et Code de la Route",
-  "langue": "fr",
+  "titre": "Conduite et environnement en Tunisie",
+  "introduction": "En Tunisie, le Code de la route et ses textes d'application imposent des règles strictes pour protéger l'environnement et promouvoir une gestion rationnelle des ressources énergétiques lors de la conduite.",
   "sections": [
     {
-      "type": "paragraphe",
-      "valeur": "En Tunisie, le Code de la route et ses textes d'application imposent des règles strictes pour protéger l'environnement et promouvoir une gestion rationnelle des ressources énergétiques lors de la conduite."
-    },
-    {
-      "type": "titre_h2",
-      "valeur": "1. Prévention de la pollution atmosphérique"
-    },
-    {
-      "type": "paragraphe",
-      "valeur": "Les véhicules à moteur ne doivent pas émettre de fumées, de gaz toxiques, corrosifs ou odorants susceptibles d'incommoder les usagers ou de nuire à la santé publique."
-    },
-    {
-      "type": "image_illustrative",
-      "url": "https://votre-pseudo.github.io/code_route_api/images/smoke_limits_fr.png",
-      "legende": "Infographie : Seuils d'opacité des fumées par catégorie de véhicule"
-    },
-    {
-      "type": "details_technique",
-      "items": [
-        "**Moteurs Diesel :** Seuils d'opacité allant de 40 unités (voitures) à 60 unités (tracteurs/engins).",
-        "**Moteurs Essence :** Le taux de monoxyde de carbone au ralenti ne doit pas dépasser **4,5 %**."
+      "numero": 1,
+      "titre": "Prévention de la pollution atmosphérique",
+      "description": "Les véhicules à moteur ne doivent pas émettre de fumées, de gaz toxiques, corrosifs ou odorants susceptibles d'incommoder les usagers, de nuire à la santé publique ou de porter préjudice à l'environnement.",
+      "sous_sections": [
+        {
+          "titre": "Limites d'opacité (Moteurs Diesel)",
+          "contenu": "Les sources fixent des seuils d'opacité de fumée par catégorie, allant de 40 unités pour les voitures particulières à 60 unités pour les tracteurs routiers et les engins de travaux publics."
+        },
+        {
+          "titre": "Monoxyde de carbone (Moteurs Essence)",
+          "contenu": "Pour les véhicules en circulation, le taux de monoxyde de carbone émis au régime de ralenti ne doit pas dépasser 4,5 %."
+        },
+        {
+          "titre": "Comportement préventif",
+          "contenu": "Il est interdit d'émettre des fumées teintées ou opaques, sauf de façon brève lors des changements de régime moteur. De plus, les conducteurs ont l'obligation de couper le moteur lorsque le véhicule est en stationnement, sauf nécessité absolue."
+        }
       ]
     },
     {
-      "type": "conseil",
-      "valeur": "Obligation de couper le moteur lors du stationnement, sauf nécessité absolue."
-    },
-    {
-      "type": "titre_h2",
-      "valeur": "2. Lutte contre les nuisances sonores"
-    },
-    {
-      "type": "liste",
-      "items": [
-        "Dispositif d'échappement silencieux obligatoire et en bon état.",
-        "Plafond de **74 décibels** pour une voiture particulière.",
-        "Plafond de **80 décibels** pour un camion ou un tracteur routier."
+      "numero": 2,
+      "titre": "Lutte contre les nuisances sonores",
+      "description": "Tout véhicule doit être muni d'un dispositif d'échappement silencieux en bon état de fonctionnement, et il est formellement interdit d'en supprimer ou d'en réduire l'efficacité.",
+      "sous_sections": [
+        {
+          "titre": "Niveaux sonores autorisés",
+          "contenu": "Le bruit mesuré lors de la réception du véhicule est plafonné selon son type, par exemple 74 décibels pour une voiture particulière et 80 décibels pour un camion ou un tracteur routier."
+        },
+        {
+          "titre": "Maintenance",
+          "contenu": "Le système d'échappement doit être maintenu en bon état et remplacé si nécessaire pour ne pas dépasser les limites de bruit fixées."
+        }
       ]
     },
     {
-      "type": "titre_h2",
-      "valeur": "3. Maîtrise de l'énergie et conduite rationnelle"
-    },
-    {
-      "type": "paragraphe",
-      "valeur": "La législation intègre la dimension environnementale dès la formation : l'épreuve théorique porte obligatoirement sur la maîtrise de l'énergie."
-    },
-    {
-      "type": "info",
-      "valeur": "Énergies alternatives : Un bonus de **1 tonne** sur le poids total autorisé est accordé aux véhicules Électriques, GNC ou GPL."
-    },
-    {
-      "type": "titre_h2",
-      "valeur": "4. Protection de la chaussée et propreté"
-    },
-    {
-      "type": "liste",
-      "items": [
-        "Interdiction de jeter ou d'abandonner des objets sur la route.",
-        "Veiller à l'absence de fuites de liquides (huile, etc.).",
-        "S'assurer qu'aucune partie du chargement ne se disperse."
+      "numero": 3,
+      "titre": "Maîtrise de l'énergie et conduite rationnelle",
+      "description": "La législation tunisienne intègre la dimension environnementale dès la formation des futurs conducteurs.",
+      "sous_sections": [
+        {
+          "titre": "Formation obligatoire",
+          "contenu": "L'épreuve théorique du permis de conduire porte obligatoirement sur la maîtrise de l'énergie. Tous les manuels d'enseignement sur ce sujet doivent d'ailleurs recevoir l'approbation du ministère du Transport."
+        },
+        {
+          "titre": "Conduite rationnelle",
+          "contenu": "Le programme d'examen inclut des éléments liés à la conduite rationnelle et à l'économie d'énergie pour réduire l'impact environnemental du transport."
+        },
+        {
+          "titre": "Énergies alternatives",
+          "contenu": "Afin de favoriser les énergies propres, une tonne supplémentaire est accordée sur le poids total autorisé pour les véhicules fonctionnant à l'énergie électrique, au gaz naturel (GNC) ou au gaz de pétrole liquéfié (GPL)."
+        }
       ]
     },
     {
-      "type": "titre_h2",
-      "valeur": "5. Contrôles et Sanctions"
+      "numero": 4,
+      "titre": "Protection de la chaussée et propreté",
+      "description": "L'impact environnemental de la conduite concerne également la préservation physique de la route.",
+      "regles": [
+        "Il est interdit de jeter, déposer ou abandonner des objets sur la route, car cela peut constituer une gêne ou un danger.",
+        "Le conducteur doit veiller à ce qu'aucun liquide (huile, etc.) ne s'écoule sur la chaussée et qu'aucune partie du chargement ne se disperse."
+      ]
     },
     {
-      "type": "alerte",
-      "valeur": "Immobilisation immédiate du véhicule si le dépassement des seuils de pollution ou de bruit atteint ou dépasse **50 %**."
-    },
-    {
-      "type": "resume_examen",
-      "titre": "📌 Points clés pour l'examen",
-      "points": [
-        "Fumées opaques et bruit excessif interdits",
-        "Arrêt du moteur obligatoire au stationnement",
-        "Échappement silencieux maintenu en bon état",
-        "Maîtrise de l'énergie : sujet obligatoire à l'épreuve théorique",
-        "Sanction lourde (+50% de dépassement = immobilisation)"
+      "numero": 5,
+      "titre": "Contrôles et Sanctions",
+      "description": "Le respect de ces normes environnementales est rigoureusement surveillé.",
+      "sous_sections": [
+        {
+          "titre": "Autorités compétentes",
+          "contenu": "Outre la Police et la Garde Nationale, les agents du ministère de l'Environnement assermentés sont habilités à constater les infractions liées à la pollution et au bruit."
+        },
+        {
+          "titre": "Visites techniques",
+          "contenu": "Des visites techniques occasionnelles peuvent être ordonnées si un véhicule émet des fumées opaques ou un bruit excessif sur la voie publique."
+        },
+        {
+          "titre": "Immobilisation",
+          "contenu": "Si un véhicule dépasse les limites autorisées de gaz ou de bruit d'un taux de 50 % ou plus, les agents peuvent procéder à son immobilisation immédiate."
+        }
       ]
     }
   ]
