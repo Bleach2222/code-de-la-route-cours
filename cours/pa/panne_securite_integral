@@ -1,0 +1,105 @@
+{
+  "id": "panne-securite-tunisie-complet",
+  "titre": "Comportement en cas de Panne sur la Voie Publique",
+  "langue": "fr",
+  "temps_lecture": "4 min",
+  "direction": "ltr",
+  "sections": [
+    {
+      "type": "introduction",
+      "valeur": "La survenance d'une panne sur la voie publique est un événement fortuit qui transforme instantanément un véhicule en un obstacle dangereux pour la circulation[cite: 1]. Le Code de la route tunisien impose au conducteur une série d'obligations immédiates visant à protéger les usagers, à assurer la visibilité de l'obstacle et à dégager la chaussée dans les plus brefs délais[cite: 1]. Maîtriser ces procédures est indispensable pour prévenir les accidents secondaires souvent plus graves que la panne initiale[cite: 1]."
+    },
+    {
+      "type": "titre_h2",
+      "valeur": "1. Comportement immédiat et mise en sécurité"
+    },
+    {
+      "type": "paragraphe",
+      "valeur": "Lorsqu'une panne survient, la priorité absolue est la sécurité[cite: 2]."
+    },
+    {
+      "type": "liste",
+      "items": [
+        "**Arrêt immédiat** : Le conducteur doit s'arrêter dès que possible en prenant les précautions nécessaires pour ne pas créer un nouveau danger[cite: 3].",
+        "**Dégagement de la chaussée** : Il est obligatoire de s'efforcer de placer le véhicule en dehors de la partie utilisée pour la circulation (sur l'accotement, par exemple)[cite: 4].",
+        "**Gêne à la circulation** : Si le véhicule constitue une gêne, le conducteur doit prendre toutes les mesures pour la faire disparaître rapidement[cite: 5]."
+      ]
+    },
+    {
+      "type": "titre_h2",
+      "valeur": "2. Obligations de présignalisation"
+    },
+    {
+      "type": "paragraphe",
+      "valeur": "Si le véhicule est immobilisé sur la chaussée, il doit être signalé aux autres usagers[cite: 6]."
+    },
+    {
+      "type": "image_illustrative",
+      "url": "https://votre-pseudo.github.io/code_route_api/images/signalisation_panne.png",
+      "legende": "Positionnement du triangle de présignalisation selon le type de route[cite: 4]."
+    },
+    {
+      "type": "details_technique",
+      "titre": "Utilisation du triangle de danger",
+      "items": [
+        "L'usage de **deux triangles** est requis[cite: 4].",
+        "**Routes ordinaires** : Placement à une distance minimale de **30 mètres**[cite: 4].",
+        "**Autoroutes** : Placement à une distance minimale de **100 mètres**[cite: 4].",
+        "**Visibilité** : Le signal doit être visible à au moins **50 mètres** de distance, de jour comme de nuit[cite: 5]."
+      ]
+    },
+    {
+      "type": "info",
+      "valeur": "Le conducteur peut également actionner simultanément tous les indicateurs de changement de direction ou utiliser un feu portatif jaune clignotant[cite: 6]."
+    },
+    {
+      "type": "titre_h2",
+      "valeur": "3. Règles spécifiques sur l'autoroute"
+    },
+    {
+      "type": "alerte",
+      "valeur": "L'arrêt sur la **Bande d'arrêt d'urgence (BAU)** ou les accotements est strictement interdit, sauf en cas de nécessité absolue (panne majeure)[cite: 8]."
+    },
+    {
+      "type": "paragraphe",
+      "valeur": "Si le véhicule ne peut être dégagé de la chaussée ou de la BAU, le conducteur doit impérativement l'annoncer pour être vu à une distance suffisante[cite: 9]."
+    },
+    {
+      "type": "titre_h2",
+      "valeur": "4. Enlèvement et remorquage"
+    },
+    {
+      "type": "liste",
+      "items": [
+        "**Délai légal** : Un véhicule immobilisé suite à un accident ou une panne doit être enlevé par son propriétaire dans un délai de **sept jours**[cite: 10].",
+        "**Mise en fourrière** : Passé ce délai, les autorités procèdent à l'enlèvement et à la mise en fourrière aux frais du propriétaire[cite: 11].",
+        "**Dépannage** : Les véhicules de dépannage sont considérés comme des « véhicules à progression lente » et doivent utiliser des feux orange spéciaux lors de leur intervention[cite: 12]."
+      ]
+    },
+    {
+      "type": "titre_h2",
+      "valeur": "5. Sanctions prévues"
+    },
+    {
+      "type": "paragraphe",
+      "valeur": "Le non-respect de ces règles de sécurité constitue une infraction[cite: 13]:"
+    },
+    {
+      "type": "details_technique",
+      "items": [
+        "**Contravention de 3ème catégorie** : Défaut de signalisation réglementaire d'un véhicule en panne[cite: 14].",
+        "**Contravention de 2ème catégorie** : Utilisation d'un triangle de danger à des distances non conformes[cite: 15]."
+      ]
+    },
+    {
+      "type": "resume_examen",
+      "titre": "📌 Résumé des points clés",
+      "points": [
+        "Priorité à la mise en sécurité hors de la chaussée[cite: 3, 4].",
+        "Triangle : 30m (route) / 100m (autoroute)[cite: 4].",
+        "Délai d'enlèvement maximal : 7 jours[cite: 10].",
+        "Contravention de 3ème catégorie pour absence de signalisation[cite: 14]."
+      ]
+    }
+  ]
+}

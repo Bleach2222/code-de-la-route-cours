@@ -1,0 +1,68 @@
+{
+  "id": "tn-style-001",
+  "titre": "Le Style de Conduite en Tunisie",
+  "temps_lecture": "3 min",
+  "sections": [
+    {
+      "type": "introduction",
+      "valeur": "En Tunisie, le style de conduite est régi par une obligation fondamentale de sécurité et de courtoisie envers les autres usagers. Les usagers doivent impérativement adopter un comportement qui ne représente pas de danger et ne constitue pas une gêne pour la circulation."
+    },
+    {
+      "type": "titre_h2",
+      "valeur": "1. Maîtrise et aptitudes"
+    },
+    {
+      "type": "paragraphe",
+      "valeur": "Le conducteur doit posséder en permanence les aptitudes physiques et psychiques nécessaires pour maintenir la maîtrise totale de son véhicule ou de ses animaux."
+    },
+    {
+      "type": "alerte",
+      "valeur": "S'abstenir de prendre le volant en cas de fatigue, d'imprégnation alcoolique ou de consommation de médicaments tranquillisants."
+    },
+    {
+      "type": "titre_h2",
+      "valeur": "2. Vigilance et adaptation"
+    },
+    {
+      "type": "paragraphe",
+      "valeur": "La vigilance est un pilier du style de conduite tunisien : le conducteur doit constamment régler sa vitesse en fonction de l'état de la chaussée, des conditions atmosphériques et de la densité du trafic."
+    },
+    {
+      "type": "conseil",
+      "valeur": "Soyez particulièrement prudent envers les usagers vulnérables (enfants, handicapés, personnes âgées). Réduisez votre vitesse ou arrêtez-vous pour faciliter leur passage."
+    },
+    {
+      "type": "titre_h2",
+      "valeur": "3. Conduite rationnelle et environnementale"
+    },
+    {
+      "type": "paragraphe",
+      "valeur": "La législation favorise la maîtrise de l'énergie et la protection de l'environnement."
+    },
+    {
+      "type": "point_cle",
+      "valeur": "Obligation de couper le moteur en cas de stationnement."
+    },
+    {
+      "type": "titre_h2",
+      "valeur": "4. Manœuvres et signalisation"
+    },
+    {
+      "type": "liste",
+      "items": [
+        "Changement de direction : Avertir les usagers en temps opportun.",
+        "Position : Maintenir le véhicule près du bord droit de la chaussée.",
+        "Distances : Garder une distance suffisante pour éviter toute collision."
+      ]
+    },
+    {
+      "type": "interdiction",
+      "titre": "Fautes graves de comportement",
+      "items": [
+        "Utilisation du téléphone mobile tenu en main.",
+        "Jet, dépôt ou abandon d'objets sur la route.",
+        "Manœuvres dangereuses ou arrêt soudain sans raison."
+      ]
+    }
+  ]
+}

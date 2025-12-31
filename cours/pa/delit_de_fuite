@@ -1,0 +1,90 @@
+{
+  "id": "delit-de-fuite-tunisie-integral",
+  "titre": "Le Délit de Fuite : Obligations et Sanctions",
+  "langue": "fr",
+  "temps_lecture": "4 min",
+  "direction": "ltr",
+  "sections": [
+    {
+      "type": "introduction",
+      "valeur": "Le délit de fuite survient lorsqu'un usager de la route, après avoir été impliqué dans un accident ou avoir causé un dommage, ne s'arrête pas ou quitte les lieux pour échapper à ses responsabilités. La sécurité et l'ordre public reposent sur l'obligation pour chaque conducteur de faire face aux conséquences de ses actes. Fuir les lieux est une infraction grave lourdement réprimée par la loi."
+    },
+    {
+      "type": "titre_h2",
+      "valeur": "1. L'obligation fondamentale d'arrêt"
+    },
+    {
+      "type": "paragraphe",
+      "valeur": "Tout conducteur impliqué dans un accident a l'obligation stricte de s'arrêter immédiatement en prenant les précautions nécessaires pour ne pas créer de nouveau danger. Il est impératif de rester sur les lieux jusqu'à la régularisation de la situation ; dans le cas contraire, l'acte est qualifié de délit de fuite."
+    },
+    {
+      "type": "titre_h2",
+      "valeur": "2. Le délit de fuite avec dégâts matériels"
+    },
+    {
+      "type": "paragraphe",
+      "valeur": "Lorsqu'un conducteur occasionne des dommages à un autre véhicule et prend la fuite pour se soustraire à sa responsabilité civile:"
+    },
+    {
+      "type": "details_technique",
+      "titre": "Sanctions pénales (Matériel)",
+      "items": [
+        "**Peine d'emprisonnement** : Jusqu'à un mois.",
+        "**Amende** : Comprise entre 120 et 200 dinars.",
+        "**Récidive** : Le tribunal prononce le maximum de l'une de ces deux peines."
+      ]
+    },
+    {
+      "type": "titre_h2",
+      "valeur": "3. Le délit de fuite avec dommages corporels"
+    },
+    {
+      "type": "alerte",
+      "valeur": "La loi est beaucoup plus sévère lorsque l'accident entraîne des blessures ou un décès."
+    },
+    {
+      "type": "details_technique",
+      "items": [
+        "**Circonstance aggravante** : Si le conducteur cause un homicide ou une blessure involontaire et prend sciemment la fuite, la peine d'emprisonnement est portée à dix ans."
+      ]
+    },
+    {
+      "type": "titre_h2",
+      "valeur": "4. Conséquences sur le permis de conduire"
+    },
+    {
+      "type": "liste",
+      "items": [
+        "**Durée du retrait** : En cas d'homicide ou de blessure involontaire avec fuite, la durée maximale de retrait du permis est portée à quatre ans.",
+        "**Majoration** : La durée du retrait est doublée si le conducteur circule malgré une décision de retrait déjà prononcée."
+      ]
+    },
+    {
+      "type": "titre_h2",
+      "valeur": "5. Impact sur le permis à points"
+    },
+    {
+      "type": "paragraphe",
+      "valeur": "Le système de points sanctionne sévèrement la fuite après un accident:"
+    },
+    {
+      "type": "details_technique",
+      "titre": "Retrait de points",
+      "items": [
+        "**Homicide involontaire avec fuite** : Retrait de 10 points.",
+        "**Blessure involontaire avec fuite** : Retrait de 6 points."
+      ]
+    },
+    {
+      "type": "resume_examen",
+      "titre": "📌 Résumé des sanctions",
+      "points": [
+        "Obligation d'arrêt immédiat sous peine de délit de fuite.",
+        "Fuite (Dégâts matériels) : Jusqu'à 1 mois de prison et 200 DT d'amende.",
+        "Fuite (Dégâts corporels) : Jusqu'à 10 ans d'emprisonnement.",
+        "Retrait de permis : Jusqu'à 4 ans.",
+        "Perte de points : 6 points (blessure) ou 10 points (homicide)."
+      ]
+    }
+  ]
+}

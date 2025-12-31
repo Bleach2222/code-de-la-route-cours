@@ -1,0 +1,77 @@
+{
+  "id": "secours-accident-tunisie",
+  "titre": "Comportement et Secours en cas d'Accident",
+  "langue": "fr",
+  "temps_lecture": "5 min",
+  "direction": "ltr",
+  "sections": [
+    {
+      "type": "introduction",
+      [cite_start]"valeur": "Lorsqu’un accident survient, chaque seconde compte. La démarche de secours repose sur une hiérarchie stricte d'actions : Protéger, Alerter et Secourir. Ce processus commence par la mise en sécurité des lieux pour éviter un suraccident, se poursuit par l'alerte des professionnels et se termine par l'assistance aux victimes[cite: 1]."
+    },
+    {
+      "type": "titre_h2",
+      "valeur": "1. Sécuriser les lieux (Protéger)"
+    },
+    {
+      "type": "paragraphe",
+      [cite_start]"valeur": "Avant d'approcher les victimes, il est impératif de neutraliser les dangers pour soi-même et pour les autres usagers afin d'éviter une collision en chaîne[cite: 1]."
+    },
+    {
+      "type": "liste",
+      "items": [
+        [cite_start]"**Arrêt et signalisation** : Tout conducteur impliqué doit s'arrêter immédiatement[cite: 1]. [cite_start]Il faut couper le moteur, allumer les feux de détresse et revêtir sa veste de sécurité rétro-réfléchissante avant de sortir du véhicule[cite: 1].",
+        [cite_start]"**Balisage** : Le triangle de danger doit être placé à au moins 30 mètres sur les routes ordinaires et à 100 mètres sur autoroute[cite: 1].",
+        [cite_start]"**Sécurité sur autoroute** : Il ne faut jamais attendre sur la chaussée ou la bande d'arrêt d'urgence, mais se placer derrière les rails de protection[cite: 1].",
+        [cite_start]"**Prévention de l'incendie** : Il est strictement interdit de fumer à proximité[cite: 1]. [cite_start]En cas de fuite de carburant, recouvrir les écoulements avec du sable ou de la terre et utiliser un extincteur (ne jamais utiliser d'eau sur un feu de voiture)[cite: 1]."
+      ]
+    },
+    {
+      "type": "titre_h2",
+      "valeur": "2. Alerter les services de secours (Alerter)"
+    },
+    {
+      "type": "paragraphe",
+      [cite_start]"valeur": "Une alerte précise permet aux secours d'arriver plus vite et avec le matériel adéquat[cite: 1]."
+    },
+    {
+      "type": "details_technique",
+      "titre": "Canaux et informations",
+      "items": [
+        [cite_start]"**Numéros d'urgence** : Appeler le 112 (numéro international) ou le 100[cite: 1]. [cite_start]Sur autoroute, utiliser les bornes d'appel orange (tous les 2 km) pour une localisation instantanée[cite: 1].",
+        [cite_start]"**Contenu du message** : Préciser le lieu exact, la nature de l'accident, les dangers présents (incendie, produits chimiques), le nombre de victimes et leur état (inconscience, arrêt respiratoire), ainsi que des données spécifiques comme la présence de femmes enceintes ou de cardiaques[cite: 1]."
+      ]
+    },
+    {
+      "type": "titre_h2",
+      "valeur": "3. Assistance aux victimes (Secourir)"
+    },
+    {
+      "type": "paragraphe",
+      [cite_start]"valeur": "En attendant les professionnels, des gestes vitaux doivent être effectués[cite: 1]:"
+    },
+    {
+      "type": "liste",
+      "items": [
+        [cite_start]"**Évaluation** : Contrôler la conscience, la respiration et la circulation sanguine (pouls)[cite: 1].",
+        [cite_start]"**Déplacement** : Ne jamais déplacer une victime, sauf en cas de danger immédiat (incendie, brouillard épais, position sur voie rapide)[cite: 1].",
+        [cite_start]"**Soutien** : Rester auprès de la victime, lui parler pour la rassurer et ne jamais la laisser seule[cite: 1].",
+        [cite_start]"**Température** : Protéger la victime du froid ou de la chaleur extrême avec une couverture ou une veste[cite: 1].",
+        [cite_start]"**Alimentation** : Ne jamais donner à manger, à boire ou des médicaments[cite: 1].",
+        [cite_start]"**Hémorragies** : Couvrir une plaie qui saigne abondamment avec un mouchoir propre ou un bandage compressif[cite: 1].",
+        [cite_start]"**Casque** : Pour les motocyclistes, laisser le casque sur la tête, sauf en cas de vomissements ou de détresse respiratoire grave[cite: 1]."
+      ]
+    },
+    {
+      "type": "resume_examen",
+      "titre": "📌 Résumé des Actions de Secours",
+      "points": [
+        [cite_start]"Protéger : Moteur coupé, gilet mis, triangle à 30m ou 100m[cite: 1].",
+        [cite_start]"Alerter : Appeler le 112 ou utiliser les bornes d'appel orange[cite: 1].",
+        [cite_start]"Secourir : Ne pas déplacer, ne pas donner à boire, couvrir la victime[cite: 1].",
+        [cite_start]"Hémorragie : Compression directe avec un linge propre[cite: 1].",
+        [cite_start]"Motard : Garder le casque sauf urgence respiratoire[cite: 1]."
+      ]
+    }
+  ]
+}

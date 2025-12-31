@@ -1,0 +1,92 @@
+{
+  "id": "facteurs-accidents-tunisie",
+  "titre": "Les Facteurs d'Accidents et la Sécurité Routière",
+  "langue": "fr",
+  "temps_lecture": "6 min",
+  "direction": "ltr",
+  "sections": [
+    {
+      "type": "introduction",
+      "valeur": "Un accident de circulation se définit comme tout événement fortuit survenant sur la route, impliquant au moins un véhicule et entraînant des dommages matériels ou corporels. La sécurité repose sur un équilibre fragile entre le comportement de l'usager, l'état de sa machine et les conditions de l'environnement. Toute rupture de cet équilibre transforme un trajet normal en une situation de danger immédiat."
+    },
+    {
+      "type": "titre_h2",
+      "valeur": "1. Le facteur humain : l'état et la vigilance du conducteur"
+    },
+    {
+      "type": "paragraphe",
+      "valeur": "Le conducteur est l'élément central du système de conduite. Sa capacité à percevoir les risques et à réagir à temps est déterminante."
+    },
+    {
+      "type": "liste",
+      "items": [
+        "**Capacités physiques et psychiques** : Le conducteur doit posséder les aptitudes nécessaires pour assurer une maîtrise constante de son véhicule ou de ses animaux.",
+        "**Substances altérantes** : Conduite interdite sous l'empire d'un état alcoolique (taux ≥ 0,5 g/l), après consommation de médicaments tranquillisants ou de produits affectant les réflexes.",
+        "**Fatigue et sommeil** : L'épuisement réduit les facultés de perception. Un conducteur fatigué peut voir son véhicule immobilisé par les autorités.",
+        "**Distraction** : L'usage du téléphone mobile est interdit, sauf en mode mains libres.",
+        "**Champ de vision** : La vision ne doit pas être obstruée par un excès de passagers, un chargement mal placé ou des objets non transparents sur les vitres."
+      ]
+    },
+    {
+      "type": "titre_h2",
+      "valeur": "2. La gestion de l'allure et de l'espace"
+    },
+    {
+      "type": "paragraphe",
+      "valeur": "La vitesse inadaptée est l'un des facteurs les plus fréquents de perte de contrôle."
+    },
+    {
+      "type": "details_technique",
+      "titre": "Adaptation et distances de sécurité",
+      "items": [
+        "**Adaptation** : L'allure doit être réglée selon la signalisation, la chaussée, le trafic et les obstacles.",
+        "**Zones à risques** : Réduction obligatoire de la vitesse aux intersections, sommets de côtes, virages, écoles et chantiers.",
+        "**Distance de sécurité minimale** : Espace correspondant au moins à la distance parcourue pendant une seconde.",
+        "**Véhicules lourds (hors agglomération)** : Distance de 50 mètres, ou 75 mètres pour le transport de matières dangereuses."
+      ]
+    },
+    {
+      "type": "titre_h2",
+      "valeur": "3. Le facteur technique : l'état du véhicule et du chargement"
+    },
+    {
+      "type": "paragraphe",
+      "valeur": "Un défaut mécanique transforme le véhicule en un projectile incontrôlable."
+    },
+    {
+      "type": "liste",
+      "items": [
+        "**Organes de sécurité** : Les défaillances du freinage, de la direction ou de l'éclairage empêchent de réagir au danger.",
+        "**Pneumatiques** : Interdiction des pneus lisses, déchirés ou laissant apparaître la toile.",
+        "**Chargement** : Doit être bien arrimé pour ne pas se disperser. Tout dépassement de plus d'un mètre à l'arrière doit être signalé par un dispositif rouge."
+      ]
+    },
+    {
+      "type": "titre_h2",
+      "valeur": "4. L'environnement et les usagers vulnérables"
+    },
+    {
+      "type": "paragraphe",
+      "valeur": "La route est un espace partagé où certains éléments augmentent la probabilité d'accidents."
+    },
+    {
+      "type": "liste",
+      "items": [
+        "**Climat** : La pluie, le brouillard ou la nuit imposent une prudence accrue et l'usage correct de l'éclairage.",
+        "**Infrastructures** : Le dépassement est souvent interdit aux passages à niveau, ponts étroits et virages à visibilité limitée.",
+        "**Usagers vulnérables** : Prudence renforcée envers les enfants, personnes âgées, handicapés et cyclistes."
+      ]
+    },
+    {
+      "type": "resume_examen",
+      "titre": "📌 Points clés de Sécurité",
+      "points": [
+        "Alcoolémie interdite à partir de 0,5 g/l.",
+        "Distance de sécurité d'au moins 1 seconde.",
+        "Distance de 50m/75m pour les poids lourds hors ville.",
+        "Signalisation rouge obligatoire si le chargement dépasse de > 1 mètre.",
+        "Le téléphone tenu en main est strictement interdit."
+      ]
+    }
+  ]
+}

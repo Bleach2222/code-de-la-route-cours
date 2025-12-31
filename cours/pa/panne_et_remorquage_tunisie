@@ -1,0 +1,97 @@
+{
+  "id": "panne-securite-depannage-integral",
+  "titre": "Sécurité, Signalisation et Dépannage en cas de Panne",
+  "langue": "fr",
+  "temps_lecture": "5 min",
+  "direction": "ltr",
+  "sections": [
+    {
+      "type": "introduction",
+      [cite_start]"valeur": "Lorsqu'un véhicule est immobilisé sur la voie publique à la suite d'une défaillance technique, il cesse d'être un simple moyen de transport pour devenir un obstacle dangereux. L'objectif prioritaire est alors de garantir la sécurité des passagers et des autres usagers en prenant des mesures de protection immédiates, de signalisation et d'évacuation[cite: 1]."
+    },
+    {
+      "type": "titre_h2",
+      "valeur": "1. Mesures de sécurité immédiates"
+    },
+    {
+      "type": "paragraphe",
+      [cite_start]"valeur": "Dès que la panne survient, le conducteur doit réagir rapidement pour minimiser les risques[cite: 1]:"
+    },
+    {
+      "type": "liste",
+      "items": [
+        "**Mise hors circulation** : Il est impératif de s'efforcer de ranger le véhicule dans un endroit sûr, idéalement là où le stationnement est autorisé. [cite_start]Sur autoroute, l'arrêt n'est toléré qu'en cas de nécessité absolue[cite: 1].",
+        [cite_start]"**Protection du conducteur** : Sur les autoroutes et les routes pour automobiles, le conducteur doit obligatoirement revêtir une veste de sécurité rétro-réfléchissante dès l'instant où il sort de son véhicule immobilisé à un endroit interdit au stationnement[cite: 1].",
+        [cite_start]"**Évacuation des lieux** : Sur autoroute, il ne faut jamais attendre sur la bande d'arrêt d'urgence, mais se placer derrière les rails de protection[cite: 1]."
+      ]
+    },
+    {
+      "type": "titre_h2",
+      "valeur": "2. Signalisation de l'obstacle"
+    },
+    {
+      "type": "paragraphe",
+      [cite_start]"valeur": "Si le véhicule ne peut pas être déplacé immédiatement hors de la chaussée, il doit être signalé pour éviter un suraccident[cite: 1]:"
+    },
+    {
+      "type": "details_technique",
+      "titre": "Le triangle de danger",
+      "items": [
+        [cite_start]"**Distances** : Il doit être placé en deçà du véhicule à une distance minimale de 30 mètres sur les routes ordinaires et à 100 mètres sur autoroute[cite: 1].",
+        [cite_start]"**Visibilité** : Le triangle doit être visible à au moins 50 mètres pour les usagers arrivant dans le même sens[cite: 1].",
+        [cite_start]"**En agglomération** : Si la distance de 30 mètres ne peut être respectée, il peut être placé plus près, voire sur le véhicule même[cite: 1].",
+        "**Cas particuliers** : Si la panne a lieu juste après un virage, le triangle doit être installé avant le virage. [cite_start]Si les feux du véhicule ne fonctionnent pas et que la visibilité est inférieure à 100 mètres, la signalisation par triangle est strictement obligatoire[cite: 1]."
+      ]
+    },
+    {
+      "type": "info",
+      [cite_start]"valeur": "L'usage des feux de détresse (quatre clignotants) ou d'un feu jaune-orange clignotant est fortement recommandé pour renforcer la visibilité[cite: 1]."
+    },
+    {
+      "type": "titre_h2",
+      "valeur": "3. Demander de l'aide sur autoroute"
+    },
+    {
+      "type": "liste",
+      "items": [
+        [cite_start]"**Bornes d'appel** : Elles sont installées tous les deux kilomètres[cite: 1].",
+        "**Localisation** : Suivre les flèches sur les petits panneaux orange placés tous les 100 mètres le long de l'accotement. [cite_start]La distance maximale à pied ne dépasse jamais un kilomètre[cite: 1].",
+        [cite_start]"**Mise en relation** : Une simple pression sur le bouton permet d'être relié directement au centre régional de gestion du trafic[cite: 1]."
+      ]
+    },
+    {
+      "type": "titre_h2",
+      "valeur": "4. Dépannage et remorquage"
+    },
+    {
+      "type": "details_technique",
+      "items": [
+        "**Remorquage par un tiers** : En utilisant une attache de fortune (câble, chaîne), la vitesse est limitée à 25 km/h. [cite_start]Les attaches doivent être visibles de jour comme de nuit[cite: 1].",
+        [cite_start]"**Interdiction sur autoroute** : Le remorquage avec une attache de fortune ou secondaire est strictement interdit sur autoroute ; seul le dépannage professionnel est autorisé[cite: 1].",
+        "**Éclairage** : De nuit ou par mauvaise visibilité, les feux du véhicule tracté doivent impérativement fonctionner. [cite_start]Sinon, le remorquage ne peut se faire que de jour[cite: 1]."
+      ]
+    },
+    {
+      "type": "titre_h2",
+      "valeur": "5. Obligations administratives et délais"
+    },
+    {
+      "type": "liste",
+      "items": [
+        [cite_start]"**Responsabilité** : Le propriétaire est responsable de son véhicule en panne[cite: 1].",
+        [cite_start]"**Délai d'enlèvement** : Suite à un accident, le propriétaire dispose d'un délai de sept jours pour faire enlever le véhicule de la route ou de ses dépendances[cite: 1].",
+        "**Mise en fourrière** : Passé ce délai de sept jours, les autorités procèdent d'office à la mise en fourrière. [cite_start]Les frais de transport et de garde sont à la charge du propriétaire[cite: 1]."
+      ]
+    },
+    {
+      "type": "resume_examen",
+      "titre": "📌 Points clés de Sécurité",
+      "points": [
+        [cite_start]"Veste rétro-réfléchissante obligatoire hors du véhicule sur autoroute[cite: 1].",
+        [cite_start]"Triangle : 30m (route ordinaire) / 100m (autoroute)[cite: 1].",
+        [cite_start]"Remorquage par attache de fortune : 25 km/h maximum et interdit sur autoroute[cite: 1].",
+        [cite_start]"Délai d'enlèvement avant fourrière : 7 jours[cite: 1]."
+      ]
+    }
+  ]
+}
