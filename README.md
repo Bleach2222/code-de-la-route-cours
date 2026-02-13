@@ -1,5 +1,4 @@
-# Module : Communiquer avec les autres usagers
-*Basé sur le Code de la Route Tunisien (Loi n° 99-71)*
+"""# Module : Communiquer avec les autres usagers
 
 ## 1. Pourquoi communiquer ?
 Sur la route, "bien voir" ne suffit pas. Il faut aussi **être compris**.
@@ -11,7 +10,7 @@ Communiquer, c'est transmettre une information claire sur vos intentions (tourne
 
 ## 2. Les Clignotants : L'intention
 
-Le clignotant est le seul langage universel pour dire "je vais modifier ma trajectoire". Ce n'est pas une option, c'est une **obligation légale** (Article 11 et 26 du Code).
+Le clignotant est le seul langage universel pour dire "je vais modifier ma trajectoire". Ce n'est pas une option, c'est une **obligation légale**.
 
 ![Schéma voiture tournant avec clignotant activé](1_clignotant_trajectoire.jpg)
 
@@ -32,15 +31,15 @@ Le changement de direction sans avertissement préalable est une infraction puni
 
 ## 3. L'Avertisseur Sonore (Le Klaxon)
 
-En Tunisie, l'usage du klaxon est strictement réglementé pour lutter contre les nuisances sonores. Il ne doit jamais servir à exprimer de la colère.
+L'usage du klaxon est strictement réglementé pour lutter contre les nuisances sonores. Il ne doit jamais servir à exprimer de la colère ou de l'impatience.
 
 ![Infographie interdiction klaxon en ville](2_klaxon_interdit_ville.jpg)
 
-### Les 3 Règles d'Or (Articles 33, 34, 35) :
-1.  **En Agglomération (Ville) :** L'usage est **INTERDIT**.
-    * *Exception unique :* En cas de **danger imminent** (pour éviter un accident immédiat).
-2.  **La Nuit :** L'usage est **INTERDIT** (sauf cas de force majeure). Il doit être remplacé par les appels de phares.
-3.  **Hors Agglomération (Jour) :** Autorisé pour donner les avertissements nécessaires (avant de dépasser, virage sans visibilité).
+### Les 3 Règles d'Or :
+1. **En Agglomération (Ville) :** L'usage est **INTERDIT**.
+   * *Exception unique :* En cas de **danger imminent** (pour éviter un accident immédiat).
+2. **La Nuit :** L'usage est **INTERDIT** (sauf cas de force majeure). Il doit être remplacé par les appels de phares.
+3. **Hors Agglomération (Jour) :** Autorisé pour donner les avertissements nécessaires (avant de dépasser, virage sans visibilité).
 
 > **Rappel :** L'usage doit toujours être "bref et modéré". Les trompes à sons multiples (musicales) sont interdites.
 
@@ -61,7 +60,7 @@ Il consiste à allumer brièvement et par intermittence ses feux.
 ### B. Les Feux de Stop
 Ils s'allument automatiquement dès que vous appuyez sur la pédale de frein.
 * **Message :** "Je ralentis" ou "Je m'arrête".
-* **Conseil :** Si vous voyez les feux stop devant vous, lâchez l'accélérateur immédiatement.
+* **Conseil :** Si vous voyez les feux stop du véhicule devant vous s'allumer, lâchez l'accélérateur immédiatement et préparez-vous à freiner.
 
 ### C. Les Feux de Détresse (Warnings)
 Ils s'utilisent pour signaler une situation anormale :
@@ -90,12 +89,13 @@ Aux intersections ou lors des passages piétons, essayez de croiser le regard de
 
 ### 📝 En résumé : Ce qu'il faut retenir
 
-| Moyen de com. | Règle Tunisienne | Interdiction majeure |
+| Moyen de com. | Règle à retenir | Interdiction majeure |
 | :--- | :--- | :--- |
 | **Clignotant** | Obligatoire **avant** toute manœuvre. | Ne pas l'utiliser = Amende. |
 | **Klaxon** | Bref et modéré. | **Interdit en ville** et **Interdit la nuit**. |
 | **Appel de phares** | Obligatoire la nuit (remplace le klaxon). | Ne pas éblouir les autres. |
 | **Feux de stop** | Signal de freinage automatique. | (Vérifiez régulièrement qu'ils fonctionnent). |
 
-> **Le conseil Ornikar :** Dans le doute, communiquez ! Mieux vaut avertir une fois de trop que de surprendre un autre usager.
+> **Le conseil :** Dans le doute, communiquez ! Mieux vaut avertir une fois de trop que de surprendre un autre usager.
 """
+
