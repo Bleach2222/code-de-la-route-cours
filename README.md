@@ -1,101 +1,105 @@
-"""# Module : Communiquer avec les autres usagers
+# Génération du fichier Markdown final pour le cours "Risques et Dangers"
 
-## 1. Pourquoi communiquer ?
-Sur la route, "bien voir" ne suffit pas. Il faut aussi **être compris**.
-Communiquer, c'est transmettre une information claire sur vos intentions (tourner, ralentir, s'arrêter) afin de permettre aux autres conducteurs d'anticiper leurs réactions et d'éviter les surprises.
+content_risques_final = """# Module : Les Risques et Dangers Potentiels
 
-> **Le principe clé :** Tout changement de direction ou de vitesse doit être signalé **à l'avance**.
+## 1. Qu'est-ce qu'un risque ?
+Conduire ne consiste pas seulement à déplacer un véhicule. C'est gérer en permanence un environnement incertain.
+Un risque est la rencontre entre un danger potentiel (ex: un virage, la pluie) et votre comportement (ex: vitesse inadaptée).
 
----
-
-## 2. Les Clignotants : L'intention
-
-Le clignotant est le seul langage universel pour dire "je vais modifier ma trajectoire". Ce n'est pas une option, c'est une **obligation légale**.
-
-![Schéma voiture tournant avec clignotant activé](1_clignotant_trajectoire.jpg)
-
-### Quand les utiliser ?
-Vous devez actionner votre clignotant **avant** de commencer la manœuvre (en temps opportun), dans les cas suivants :
-* **Changer de direction :** Pour tourner à droite ou à gauche à une intersection.
-* **Dépasser :**
-    * Clignotant *gauche* pour déboîter.
-    * Clignotant *droit* pour se rabattre.
-* **Changer de file :** Sur une route à plusieurs voies.
-* **Quitter un stationnement :** Pour s'insérer dans le flux de circulation.
-* **Dans un rond-point :** Pour indiquer votre sortie.
-
-### ⚠️ Sanction
-Le changement de direction sans avertissement préalable est une infraction punie d'une **amende**.
+> **L'objectif du conducteur :** Anticiper pour ne jamais se laisser surprendre.
 
 ---
 
-## 3. L'Avertisseur Sonore (Le Klaxon)
+## 2. Le Risque lié à la Vitesse
 
-L'usage du klaxon est strictement réglementé pour lutter contre les nuisances sonores. Il ne doit jamais servir à exprimer de la colère ou de l'impatience.
+La vitesse est le facteur de risque numéro 1. Elle agit à deux niveaux : elle augmente le risque d'accident et aggrave ses conséquences.
 
-![Infographie interdiction klaxon en ville](2_klaxon_interdit_ville.jpg)
+![Illustration de l'effet tunnel selon la vitesse](1_effet_tunnel_vitesse.jpg)
 
-### Les 3 Règles d'Or :
-1. **En Agglomération (Ville) :** L'usage est **INTERDIT**.
-   * *Exception unique :* En cas de **danger imminent** (pour éviter un accident immédiat).
-2. **La Nuit :** L'usage est **INTERDIT** (sauf cas de force majeure). Il doit être remplacé par les appels de phares.
-3. **Hors Agglomération (Jour) :** Autorisé pour donner les avertissements nécessaires (avant de dépasser, virage sans visibilité).
+### A. L'Effet Tunnel
+Plus vous roulez vite, plus votre cerveau doit traiter d'informations. Pour compenser, il sacrifie la vision périphérique.
+* **À l'arrêt :** Champ visuel de 180°.
+* **À 100 km/h :** Le champ visuel se réduit à 30° (comme si vous regardiez dans un tunnel). Vous ne voyez plus les dangers venant des côtés (enfants, animaux).
 
-> **Rappel :** L'usage doit toujours être "bref et modéré". Les trompes à sons multiples (musicales) sont interdites.
-
----
-
-## 4. Les Feux : Communiquer par la lumière
-
-L'éclairage sert à voir, être vu, mais aussi à parler aux autres.
-
-### A. L'Appel de Phares (Feux de route / Croisement)
-Il consiste à allumer brièvement et par intermittence ses feux.
-
-![Conducteur faisant un appel de phares la nuit](3_appel_phares_nuit.jpg)
-
-* **La nuit :** C'est le moyen de communication **obligatoire** pour remplacer le klaxon.
-* **Le jour :** Utilisé pour avertir de son approche ou avant un dépassement.
-
-### B. Les Feux de Stop
-Ils s'allument automatiquement dès que vous appuyez sur la pédale de frein.
-* **Message :** "Je ralentis" ou "Je m'arrête".
-* **Conseil :** Si vous voyez les feux stop du véhicule devant vous s'allumer, lâchez l'accélérateur immédiatement et préparez-vous à freiner.
-
-### C. Les Feux de Détresse (Warnings)
-Ils s'utilisent pour signaler une situation anormale :
-
-![Voiture en panne avec warnings et triangle](4_feux_detresse_danger.jpg)
-
-* Ralentissement brusque ou bouchon (pour prévenir ceux qui arrivent derrière).
-* Véhicule en panne ou accidenté sur la chaussée.
-* Stationnement en double file (en cas de nécessité absolue, bien que déconseillé).
+### B. L'Énergie Cinétique
+C'est l'énergie accumulée par le véhicule en mouvement. Si vous doublez votre vitesse, l'énergie cinétique est **multipliée par 4**. C'est cette violence qui déforme la carrosserie et blesse les occupants lors d'un choc.
 
 ---
 
-## 5. La Communication Non-Verbale
+## 3. Le Risque lié à la Météo
 
-Parfois, la technologie ne suffit pas. L'attitude compte.
+Les conditions atmosphériques modifient l'adhérence et la visibilité.
 
-### Le Contact Visuel (Le Regard)
-Aux intersections ou lors des passages piétons, essayez de croiser le regard de l'autre usager.
+### A. La Pluie et l'Aquaplaning
+Sur route mouillée, l'adhérence des pneus est réduite de moitié.
+Le phénomène d'**aquaplaning** survient lorsqu'une couche d'eau s'insère entre le pneu et la route. Le véhicule ne touche plus le sol et devient incontrôlable (comme une luge).
 
-![Contact visuel conducteur pieton](5_regard_pieton.jpg)
+![Schéma technique de l'aquaplaning](2_aquaplaning_pneu.jpg)
 
-* *Si vous voyez ses yeux :* Il vous a vu, vous pouvez manœuvrer avec prudence.
-* *S'il ne regarde pas vers vous :* Méfiance, il risque de s'engager sans vous voir.
+* **La règle :** En cas de pluie, réduisez votre vitesse et augmentez vos distances de sécurité.
+
+### B. Le Brouillard et le Vent de Sable
+En Tunisie, le vent de sable peut réduire la visibilité aussi violemment que le brouillard.
+* **Comportement :** Allumez vos feux de croisement et vos feux de brouillard. Ne dépassez jamais si vous ne voyez pas loin devant vous.
 
 ---
 
-### 📝 En résumé : Ce qu'il faut retenir
+## 4. Le Risque lié au Conducteur : La Distraction
 
-| Moyen de com. | Règle à retenir | Interdiction majeure |
-| :--- | :--- | :--- |
-| **Clignotant** | Obligatoire **avant** toute manœuvre. | Ne pas l'utiliser = Amende. |
-| **Klaxon** | Bref et modéré. | **Interdit en ville** et **Interdit la nuit**. |
-| **Appel de phares** | Obligatoire la nuit (remplace le klaxon). | Ne pas éblouir les autres. |
-| **Feux de stop** | Signal de freinage automatique. | (Vérifiez régulièrement qu'ils fonctionnent). |
+L'ennemi principal de l'attention est le téléphone portable.
 
-> **Le conseil :** Dans le doute, communiquez ! Mieux vaut avertir une fois de trop que de surprendre un autre usager.
+![Conducteur distrait par son téléphone](3_distraction_telephone.jpg)
+
+### Pourquoi est-ce interdit ?
+Lire un message ou décrocher un appel détourne votre regard de la route pendant plusieurs secondes.
+* **À 50 km/h**, en regardant votre téléphone pendant **2 secondes**, vous parcourez **28 mètres** "à l'aveugle".
+* **Sanction :** L'usage du téléphone tenu en main est une infraction punie d'une amende, car elle multiplie le risque d'accident par 3.
+
+---
+
+## 5. Le Risque lié aux Autres Usagers
+
+Vous ne conduisez pas seul. L'imprévisibilité des autres est un danger constant.
+
+### Les Angles Morts
+Ce sont les zones que vous ne pouvez pas voir, ni directement, ni dans vos rétroviseurs.
+Tous les véhicules en ont, mais ceux des poids lourds et des bus sont immenses.
+
+![Schéma des angles morts autour d'une voiture](4_angles_morts_schema.jpg)
+
+> **Règle de survie :** Ne restez jamais à la hauteur de la roue arrière d'un camion ou dans son angle mort. Si vous ne voyez pas les rétroviseurs du chauffeur, il ne vous voit pas.
+
+---
+
+## 6. Le Risque Mécanique : L'État du Véhicule
+
+Un véhicule mal entretenu est une bombe à retardement.
+
+### Les Pneumatiques
+Ils sont votre seul point de contact avec la route (une surface équivalente à 4 cartes postales).
+
+![Comparaison pneu neuf vs pneu usé](5_pneu_usure_danger.jpg)
+
+* **Sous-gonflage :** Risque d'éclatement du pneu sur autoroute et augmentation de la consommation de carburant.
+* **Usure :** Des pneus lisses ne permettent plus d'évacuer l'eau (risque d'aquaplaning immédiat) et rallongent la distance de freinage.
+
+---
+
+### 📝 En résumé : Les réflexes de sécurité
+
+| Type de Risque | La solution préventive |
+| :--- | :--- |
+| **Vitesse** | Adapter son allure aux conditions (pas seulement aux panneaux). |
+| **Pluie** | Ralentir et augmenter les distances de sécurité (x2). |
+| **Distraction** | Téléphone rangé, GPS programmé avant le départ. |
+| **Angles Morts** | Tourner la tête avant de changer de file (vision directe). |
+| **Pneus** | Vérifier la pression une fois par mois. |
+
+> **Le mot de la fin :** Un bon conducteur n'est pas celui qui sait rattraper un dérapage, c'est celui qui ne se met jamais dans une situation où il doit le faire.
 """
 
+file_path_risques_final = "/mnt/data/Cours_Risques_Dangers_Tunisie_Final.md"
+with open(file_path_risques_final, "w") as f:
+    f.write(content_risques_final)
+
+file_path_risques_final
