@@ -1,97 +1,102 @@
-# Script Python pour générer le cours "Risques et Dangers" au format Markdown
+# Script Python pour générer le cours "Communiquer avec les autres" au format Markdown
 # Basé strictement sur le Code de la Route Tunisien (Loi n° 99-71)
 
 content = """
-# Module : Risques et Dangers sur la Route 🇹🇳
+# Module : Communiquer avec les autres 🗣️🚗
 
 ## 1. Introduction
-La route n'est pas un terrain de jeu. En Tunisie, la majorité des accidents sont dus au comportement humain : excès de vitesse, inattention ou non-respect des règles. Connaître les risques, ce n'est pas seulement pour l'examen, c'est pour anticiper les dangers et sauver des vies. L'objectif de ce module est de vous apprendre à identifier ces risques pour adapter votre conduite instantanément.
+Conduire, ce n'est pas seulement manœuvrer un volant et des pédales. C'est avant tout une activité sociale ! Sur la route, tu n'es jamais seul. Pour éviter les conflits et les accidents, tu dois **informer** les autres de tes intentions et **comprendre** les leurs. Une bonne communication = zéro surprise = sécurité maximale.
 
-> **Le saviez-vous ?** ⏱️
-> À 90 km/h, vous parcourez **25 mètres chaque seconde**. Si un danger surgit, il vous faut environ 1 seconde pour réagir (temps de réaction). Durant cette seconde, vous avez déjà parcouru la longueur d'un court de tennis avant même de toucher au frein !
-
----
-
-## 2. La Vitesse et les Distances
-La vitesse est le facteur aggravant numéro 1. Elle réduit votre champ de vision (effet tunnel) et augmente considérablement la distance d'arrêt.
-
-### Les Limitations de Vitesse Générales
-En l'absence de panneaux restrictifs, voici les règles d'or en Tunisie :
-* **50 km/h** : En agglomération (ville).
-* **90 km/h** : Hors agglomération (routes nationales, régionales).
-* **110 km/h** : Sur les autoroutes.
-
-### L'adaptation aux conditions (Pluie 🌧️)
-Lorsque la chaussée est mouillée, l'adhérence est réduite. Le Code de la Route impose de réduire sa vitesse :
-* **- 10 km/h** en agglomération (soit 40 km/h).
-* **- 20 km/h** hors agglomération et sur autoroute (soit 70 km/h et 90 km/h).
-
-![Illustration vectorielle d'un compteur de vitesse montrant les limitations 50, 90 et 110 avec des icônes météo](1_vitesse_limites.jpg)
-
-### Les Distances de Sécurité
-Pour éviter la collision, la règle des **2 secondes** est impérative. Vous devez laisser un intervalle de 2 secondes avec le véhicule qui vous précède.
-* **Astuce :** Prenez un repère fixe. Quand la voiture devant passe ce repère, comptez "1 crocodile, 2 crocodiles". Si vous passez le repère avant d'avoir fini, vous êtes trop près.
+> **Le saviez-vous ?** 💡
+> En Tunisie, l'usage du klaxon est strictement réglementé. Contrairement aux habitudes populaires, il est **interdit la nuit** (entre le coucher et le lever du soleil) sur tout le territoire. Vous devez le remplacer par des appels de phares (appels lumineux).
 
 ---
 
-## 3. Les Comportements à Risque et Interdictions
-Au-delà de la vitesse, votre état physique et votre attention sont vos meilleures protections.
+## 2. Les Clignotants : Ton langage principal 💡
+Le changement de direction sans avertissement est l'une des causes fréquentes d'accrochages.
 
-### L'Alcool au volant 🍷
-L'alcool altère le jugement et les réflexes. En Tunisie, la tolérance est extrêmement faible.
-* **Seuil légal :** Il est interdit de conduire avec un taux d'alcoolémie égal ou supérieur à **0,5 g/l** de sang.
-* **Effet :** Dès le premier verre, la vigilance baisse. Le risque d'accident est multiplié par 2 à 0,5 g/l.
+### La règle d'or : "Avant, pas pendant !"
+Tu dois actionner ton clignotant **suffisamment à l'avance** pour ne pas surprendre les autres usagers, mais pas trop tôt pour ne pas les induire en erreur.
 
-### Les Distractions (Téléphone) 📱
-L'usage du téléphone portable tenu en main est **strictement interdit**.
-* Écrire un message ou appeler détourne le regard de la route pendant plusieurs secondes. C'est comme conduire les yeux bandés.
-* Le kit mains-libres est toléré, mais déconseillé car il capte votre attention mentale.
+### Quand l'utiliser ?
+C'est obligatoire pour toute modification de trajectoire :
+* Changer de file (même sur autoroute).
+* Tourner à une intersection.
+* Sortir d'un stationnement.
+* Entrer et sortir d'un rond-point.
+* Démarrer ou s'arrêter sur le bord de la route.
 
-![Illustration vectorielle d'un conducteur distrait par son smartphone avec un panneau danger en arrière-plan](2_distraction_volant.jpg)
-
-### La Fatigue
-La somnolence tue.
-* Faites une pause toutes les **2 heures**.
-* Dès les premiers signes (picotements des yeux, bâillements), arrêtez-vous. Aucun café ne remplace 15 minutes de sommeil.
+![Illustration vectorielle plate d'une voiture orange mettant son clignotant gauche avant de tourner, vue de dessus, style éducatif](1_clignotant_action.jpg)
 
 ---
 
-## 4. Les Sanctions (Code de la Route Tunisien)
-La Loi n° 99-71 prévoit des sanctions lourdes pour dissuader les comportements dangereux. Voici ce que vous risquez concrètement :
+## 3. Les Avertisseurs (Sonores et Lumineux) 🔊🔦
 
-### Conduite en état d'ivresse (≥ 0,5 g/l)
-C'est un délit grave (Article 87).
-* 💸 **Amende :** De 100 à 500 Dinars.
-* 👮 **Prison :** De 1 mois à 6 mois.
-* 📉 **Permis :** Retrait systématique du permis.
-* 📝 **Mise en fourrière :** Possible immobilisation du véhicule.
+### L'Avertisseur Sonore (Klaxon)
+En Tunisie, le klaxon est un outil d'urgence, pas d'agacement.
 
-### Excès de Vitesse (Grand excès)
-Si vous dépassez la limitation de plus de 40 km/h :
-* 💸 **Amende :** De 61 à 100 Dinars.
-* 👮 **Prison :** Jusqu'à 1 mois (en cas de récidive ou circonstances aggravantes).
-* 📉 **Permis :** Retrait du permis de 1 à 6 mois.
+* **En agglomération :** L'usage est **INTERDIT**, sauf en cas de **danger imminent** (pour éviter un accident qui ne peut l'être autrement).
+* **Hors agglomération :** Autorisé pour avertir les autres usagers (par exemple avant un dépassement risqué sur une route étroite).
+* **La Nuit :** **INTERDIT PARTOUT**.
 
-### Usage du Téléphone au volant
-* 💸 **Amende :** 60 Dinars (Contravention).
+### L'Avertisseur Lumineux (Appels de phares)
+C'est l'alternative obligatoire au klaxon la nuit.
+* Utilisez de brefs appels de phares pour avertir un conducteur que vous allez dépasser.
+* Utile aux intersections ou aux sommets de côte la nuit pour signaler votre présence.
+
+![Illustration vectorielle divisée en deux : jour avec klaxon barré en ville, nuit avec phares allumés, style éducatif](2_klaxon_regles.jpg)
 
 ---
 
-## 5. Résumé
+## 4. Les Feux de Détresse et Feux Stop ⚠️
+
+### Les Feux de Détresse (Les "4 clignotants")
+Ils ne servent pas à se garer en double file pour acheter du pain ! Leur usage est strict :
+* Lorsque vous êtes le dernier véhicule d'une file ralentie (embouteillage soudain).
+* Si votre véhicule est en panne ou accidenté sur la chaussée.
+* Si vous roulez à allure anormalement réduite suite à un problème mécanique.
+
+### Les Feux Stop
+Ils s'allument automatiquement quand vous freinez.
+* **Conseil :** Si vous voyez un ralentissement loin devant, effleurez votre pédale de frein plusieurs fois pour faire clignoter vos feux stop et avertir ceux qui vous suivent.
+
+![Illustration vectorielle d'une voiture à l'arrêt avec les feux de détresse clignotants activés, vue arrière, style minimaliste](3_feux_detresse.jpg)
+
+---
+
+## 5. Les Sanctions (Code de la Route Tunisien) ⚖️
+Le non-respect de ces règles entraîne des contraventions. Même si elles ne mènent pas à la prison, elles coûtent cher et peuvent mener à des accidents responsables.
+
+### Changement de direction sans signalisation (Clignotant)
+* 💸 **Amende :** 40 Dinars (Contravention de 2ème catégorie).
+* 📉 **Permis :** Risque réel en cas d'accident.
+
+### Usage abusif du Klaxon (Ville ou Nuit)
+* 💸 **Amende :** 20 Dinars (Contravention de 1ère catégorie).
+
+### Véhicule sans dispositifs d'éclairage/signalisation fonctionnels
+* 💸 **Amende :** 60 Dinars (Contravention de 3ème catégorie).
+* 📝 **Mise en fourrière :** Possible si la conduite est jugée dangereuse (ex: aucun feu stop ne marche).
+
+![Illustration vectorielle d'un policier tunisien rédigeant une contravention à côté d'une voiture, style plat et doux](4_sanction_police.jpg)
+
+---
+
+## 6. Résumé
 
 ### 📝 Ce qu'il faut retenir pour l'examen
 
-| Thème | Règle Clé / Chiffre | Sanction Principale |
+| Outil | Usage Autorisé | Usage Interdit |
 | :--- | :--- | :--- |
-| **Vitesse Ville** | Max **50 km/h** | Amende |
-| **Vitesse Route** | Max **90 km/h** | Amende / Retrait si excès |
-| **Vitesse Autoroute** | Max **110 km/h** | Amende / Retrait si excès |
-| **Alcool** | Max **< 0,5 g/l** | **Prison** + Amende + Retrait |
-| **Sécurité** | Distance de **2 secondes** | Accident |
-| **Téléphone** | Interdit tenu en main | 60 DT |
+| **Clignotant** | **TOUJOURS** avant une manœuvre | L'oublier ou le mettre trop tard |
+| **Klaxon** | Danger immédiat | La nuit (partout) + En ville (sauf danger) |
+| **Appel de phares** | Pour avertir (Jour et Nuit) | Pour éblouir ou agresser |
+| **Feux de détresse** | Panne, Accident, Ralentissement | Stationnement gênant ("minute") |
+
+
 
 > **Le conseil du moniteur :**
-> "Sur la route, n'essayez jamais de gagner du temps, essayez de gagner de la sécurité. Mieux vaut arriver 5 minutes en retard que de ne jamais arriver. Soyez prudents !" 🚗💨
+> "Communiquer, c'est bien, mais s'assurer d'être vu, c'est mieux ! Ne faites jamais confiance aveuglément à un clignotant : regardez toujours les roues et le regard de l'autre conducteur pour confirmer son intention." 👀🤝
 
 ---
 
@@ -99,19 +104,19 @@ Si vous dépassez la limitation de plus de 40 km/h :
 
 Voici les descriptions pour générer les images de ce cours :
 
-1.  **Fichier :** `1_vitesse_limites.jpg`
-    * **Prompt :** Modern educational vector illustration, flat design, a stylized car speedometer showing three key speed limits: 50, 90, and 110, with simple icons representing city, road, and highway, soft pastel colors, minimalist clean lines.
-2.  **Fichier :** `2_distraction_volant.jpg`
-    * **Prompt :** Modern educational vector illustration, flat design, a driver silhouette inside a car looking at a smartphone with a red warning exclamation mark floating above, symbolizing danger, soft pastel colors, minimalist.
-3.  **Fichier :** `3_alcohol_limit.jpg`
-    * **Prompt :** Modern educational vector illustration, flat design, a glass of wine with a prohibition sign and a car key, representing "don't drink and drive", clean lines, soft pastel colors, minimalist.
-4.  **Fichier :** `4_safety_distance.jpg`
-    * **Prompt :** Modern educational vector illustration, flat design, top-down view of two cars on a road maintaining a safe distance, with a "2 seconds" timer icon between them, soft pastel colors, minimalist.
-5.  **Fichier :** `5_sanctions_law.jpg`
-    * **Prompt :** Modern educational vector illustration, flat design, a judge's gavel and a Tunisian traffic ticket with currency symbols, representing legal consequences, clean lines, soft pastel colors, minimalist.
+1.  **Fichier :** `1_clignotant_action.jpg`
+    * **Prompt :** Modern educational vector illustration, flat design, top-down view of an orange car activating the left turn signal (blinking yellow light) before an intersection, grey road background, minimalist clean lines.
+2.  **Fichier :** `2_klaxon_regles.jpg`
+    * **Prompt :** Modern educational vector illustration, flat design, split screen: left side showing a city with a "No Horn" sign, right side showing a car at night using headlights (beams), soft pastel colors, educational icons.
+3.  **Fichier :** `3_feux_detresse.jpg`
+    * **Prompt :** Modern educational vector illustration, flat design, rear view of a modern car with both red tail lights and orange hazard lights glowing, symbol of a warning triangle nearby, minimalist style.
+4.  **Fichier :** `4_sanction_police.jpg`
+    * **Prompt :** Modern educational vector illustration, flat design, a friendly Tunisian police officer in uniform writing on a notepad next to a vehicle, traffic safety concept, soft blue and beige colors, clean lines.
+5.  **Fichier :** `5_eye_contact.jpg`
+    * **Prompt :** Modern educational vector illustration, flat design, close-up on a driver's eyes in the rear-view mirror making eye contact, symbolizing attention and communication, soft pastel colors, minimalist.
 """
 
-filename = "Cours_Risques_Dangers_Tunisie.md"
+filename = "Cours_Communication_Route_Tunisie.md"
 
 with open(filename, "w", encoding="utf-8") as f:
     f.write(content)
