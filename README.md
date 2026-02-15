@@ -1,71 +1,71 @@
-Voici le contenu complet du cours **"Les distances"** au format Markdown, structuré pour votre plateforme pédagogique et basé sur les dispositions du Code de la Route tunisien.
-
-***
-
-# **H1 Module : Les distances**
+# Module : Les distances
 
 **1. Introduction**
 
-Sur la route, l'espace, c'est du temps. Maintenir une distance de sécurité avec les autres usagers n'est pas une simple recommandation : c'est un bouclier invisible qui vous protège en cas d'imprévu. En Tunisie, la densité du trafic et les arrêts fréquents (transports publics, piétons) exigent une maîtrise parfaite des intervalles. Savoir évaluer ces distances, c'est s'assurer d'avoir toujours une "porte de sortie" pour éviter la collision.
+Sur la route, l’espace est ton meilleur allié. Maintenir une distance suffisante avec les autres n'est pas seulement une question de courtoisie, c’est une barrière de sécurité indispensable pour éviter les collisions. En Tunisie, la densité du trafic et les imprévus (freinages brusques, obstacles traversant la chaussée) exigent que tu gardes toujours une "marge de manœuvre". Savoir évaluer les distances, c'est se donner le temps de percevoir, d'analyser et de réagir efficacement.
 
 > **Le saviez-vous ?**
-> La loi tunisienne définit la distance de sécurité comme l'espace parcouru par un véhicule pendant **une seconde**. C'est le temps minimum nécessaire pour percevoir un danger et commencer à actionner le frein.
+> La loi tunisienne définit la distance de sécurité comme l'espace parcouru par ton véhicule pendant **une seconde**. C'est le temps minimum nécessaire pour qu'un conducteur attentif commence à freiner en cas de danger.
 
-![Un conducteur respectant l'intervalle de sécurité sur une route nationale](1_distance_intro.jpg)
+--Image of: --Un conducteur au volant d'une voiture gardant un espace sécurisé avec le véhicule de devant sur une route nationale tunisienne.
 
 **2. La distance de sécurité entre deux véhicules**
 
-### **H3 La règle de la seconde**
-Tout conducteur doit maintenir une distance de sécurité suffisante avec le véhicule qui le précède pour éviter tout tamponnement en cas de freinage brusque ou d'arrêt imprévu. Pour vous aider à l'évaluer rapidement, une formule simple s'applique selon votre vitesse.
+### H3 La règle de calcul rapide
+Pour t'aider à garder tes distances, il existe une formule simple pour calculer l’intervalle de sécurité minimal en mètres, basée sur ta vitesse actuelle :
 
-*   **La formule de calcul :** $(\text{Vitesse en km/h}) \times 3 / 10 = \text{Distance en mètres}$.
+*   **La formule :** $(\text{Vitesse en km/h}) \times \frac{3}{10} = \text{Distance en mètres}$.
 *   **À 60 km/h :** $6 \times 3 =$ **18 mètres**.
 *   **À 90 km/h :** $9 \times 3 =$ **27 mètres**.
 *   **À 110 km/h :** $11 \times 3 =$ **33 mètres**.
 
-![Infographie montrant le calcul de la distance de sécurité selon la vitesse](2_formule_vitesse.jpg)
+--Image of: --Infographie montrant la formule de calcul $(\text{Vitesse} \times 3/10)$ avec des exemples de compteurs de vitesse.
 
-### **H3 Cas particuliers : Véhicules lourds et encombrants**
-Si vous conduisez un véhicule dont le poids (PTAC) dépasse **3500 kg** ou dont la longueur dépasse **7 mètres**, les règles sont plus strictes hors agglomération et sur autoroute :
-*   **50 mètres** au moins doivent vous séparer du véhicule précédent.
-*   **75 mètres** au moins si vous transportez des matières dangereuses.
+### H3 Cas particuliers : Véhicules lourds et matières dangereuses
+Si tu conduis ou suis un véhicule imposant, les règles sont plus strictes hors agglomération et sur autoroute pour éviter les accidents en chaîne. Pour les véhicules de plus de **3500 kg** ou de plus de **7 mètres** de long, l'intervalle doit être au minimum de :
+*   **50 mètres** pour les camions et bus classiques.
+*   **75 mètres** pour les véhicules transportant des matières dangereuses.
 
-![Deux camions sur l'autoroute respectant l'intervalle obligatoire de 50 mètres](3_camion_distance.jpg)
+--Image of: --Deux camions circulant sur l'autoroute avec un panneau indicateur "50m" entre les deux.
 
 **3. Les distances latérales de sécurité**
 
-### **H3 Le dépassement en toute sécurité**
-On ne double jamais un usager en le "frôlant". La loi impose un écart latéral minimum pour compenser les éventuels écarts de trajectoire :
-*   **1 mètre au moins** : Pour dépasser un piéton, un cycle, un motocycle à deux roues ou un véhicule à traction animale.
-*   **50 centimètres au moins** : Pour dépasser les autres types de véhicules (voitures, camions).
+### H3 Lors d'un dépassement ou croisement
+On ne frôle jamais un usager vulnérable. Pour doubler en toute sécurité, tu dois laisser un espace sur le côté afin de compenser un éventuel écart de trajectoire :
+*   **1 mètre au moins :** Pour dépasser un piéton, un cycle, un motocycle à deux roues ou un véhicule à traction animale.
+*   **50 centimètres au moins :** Pour dépasser tout autre véhicule (voiture, camion).
 
-![Schéma montrant l'écart de 1 mètre pour doubler un cycliste](4_depassement_lateral.jpg)
+--Image of: --Vue de dessus d'une voiture dépassant un cycliste avec une flèche indiquant la distance latérale de 1 mètre.
 
-### **H3 Le croisement**
-Lors d'un croisement, vous devez également laisser une distance latérale suffisante. Si la chaussée est trop étroite pour croiser sans danger, les véhicules encombrants (plus de 2m de large ou 7m de long) doivent ralentir ou s'arrêter pour laisser passer les véhicules plus petits.
+**4. Les distances liées à l'arrêt et au stationnement**
 
-**4. Sanctions en cas de non-respect**
+Le respect des distances s'applique aussi quand tu es à l'arrêt pour ne pas gêner la visibilité des autres ou bloquer le passage :
+*   **30 cm :** C'est la distance maximale autorisée entre tes roues et le trottoir en agglomération.
+*   **3 mètres :** La distance minimale à respecter avant un passage pour piétons s'il est au niveau d'une intersection.
+*   **10 mètres :** L'espace à laisser avant une intersection hors agglomération (3 mètres en ville).
+*   **20 mètres :** La distance minimale entre deux véhicules transportant des matières dangereuses garés au même endroit.
 
-Le non-respect de la distance de sécurité est une faute sérieuse. En Tunisie, cette infraction est classée comme une **contravention de la 3ème catégorie**.
+--Image of: --Schéma d'une rue montrant une voiture correctement stationnée par rapport au trottoir et à une intersection.
 
-*   **Amende forfaitaire :** **20 Dinars (DT)**.
-*   **Responsabilité :** En cas de collision par l'arrière (tamponnement), le conducteur qui n'a pas respecté la distance de sécurité est présumé responsable des dommages.
+**5. Sanctions en cas de non-respect**
 
-![Un agent de la circulation effectuant un contrôle de sécurité routière](5_sanction_permis.jpg)
+Ne pas respecter ces distances est une faute qui peut coûter cher sur ton capital de 25 points :
+*   **L'amende :** Le défaut de distance de sécurité est une contravention de 3ème catégorie punie d'une amende de **20 Dinars tunisiens (DT)**.
+*   **Responsabilité :** En cas de collision par l'arrière, le conducteur qui ne respectait pas la distance de sécurité est présumé responsable.
+
+--Image of: --Un agent de la circulation effectuant un contrôle avec un rappel visuel de l'amende de 20 DT.
 
 **3. Le conseil du moniteur :**
 
-> "La règle de la seconde (Vitesse x 0,3) est valable par temps sec. Si la route est mouillée ou s'il y a du brouillard, vos pneus adhèrent moins bien : n'hésitez pas à doubler cet intervalle pour rester en totale sécurité !"
+> "N'oublie pas que la règle de la seconde est calculée pour un temps sec. Si la route est mouillée ou s'il y a du brouillard, tes pneus adhèrent moins bien : double systématiquement ces distances pour rester maître de ton véhicule en toute circonstance !".
 
-***
-La signalisation routière Activité 10/12 — J’ai lu cette fiche.
+---
 
-***
+### 3. PROMPTS IMAGES
 
-### **3. PROMPTS IMAGES (DALL-E / MIDJOURNEY)**
-
-1.  **Fichier :** 1_distance_intro.jpg | **Prompt :** Modern educational vector illustration, flat design, clean lines, two cars driving on a Tunisian scenic road with a clear safe gap between them, soft pastel colors, minimalist.
-2.  **Fichier :** 2_formule_vitesse.jpg | **Prompt :** Modern educational vector illustration, flat design, clean lines, a large mathematical formula "Vitesse x 0.3 = Mètres" displayed over a road graphic, soft pastel colors, minimalist.
-3.  **Fichier :** 3_camion_distance.jpg | **Prompt :** Modern educational vector illustration, flat design, clean lines, a heavy truck and a car on a highway with a "50m" arrow indicator between them, soft pastel colors, minimalist.
-4.  **Fichier :** 4_depassement_lateral.jpg | **Prompt :** Modern educational vector illustration, flat design, clean lines, top view of a blue car overtaking a bicycle with a "1m" safety arrow, soft pastel colors, minimalist.
-5.  **Fichier :** 5_sanction_permis.jpg | **Prompt :** Modern educational vector illustration, flat design, clean lines, a Tunisian road sign showing a safe distance symbol next to a 20 DT coin icon, soft pastel colors, minimalist.
+1.  **Fichier :** distance_intro.jpg | **Prompt :** Modern educational vector illustration, flat design, clean lines, two cars driving on a Tunisian scenic road with a clear safe gap between them, soft pastel colors, minimalist.
+2.  **Fichier :** formule_vitesse.jpg | **Prompt :** Modern educational vector illustration, flat design, clean lines, a large mathematical formula "Vitesse x 0.3 = Mètres" displayed over a stylized road graphic, soft pastel colors, minimalist.
+3.  **Fichier :** camions_distance.jpg | **Prompt :** Modern educational vector illustration, flat design, clean lines, a heavy truck and a car on a highway with a "50m" arrow indicator between them, soft pastel colors, minimalist.
+4.  **Fichier :** depassement_cycliste.jpg | **Prompt :** Modern educational vector illustration, flat design, clean lines, top view of a blue car overtaking a bicycle with a "1m" safety arrow, soft pastel colors, minimalist.
+5.  **Fichier :** parking_distances.jpg | **Prompt :** Modern educational vector illustration, flat design, clean lines, a car parked near an intersection showing the 3-meter safety gap from the corner, soft pastel colors, minimalist.
+6.  **Fichier :** sanction_20dt.jpg | **Prompt :** Modern educational vector illustration, flat design, clean lines, a Tunisian road sign showing a safe distance symbol next to a 20 DT coin icon, soft pastel colors, minimalist.
