@@ -1,139 +1,144 @@
-# Module : Risques et Dangers
+# Module : Les distances
 
 ## 1. Introduction
 
-Sur la route, le danger n’apparaît jamais par hasard. Il résulte souvent d’une combinaison entre l’environnement, la circulation et le comportement des usagers. Identifier les situations dangereuses permet au conducteur d’anticiper, d’adapter sa conduite et d’éviter l’accident. La sécurité routière repose avant tout sur la capacité à reconnaître le risque avant qu’il ne devienne un danger réel.
+Sur la route, **la distance** est votre première protection.  
+Garder une distance suffisante avec les autres usagers permet d’anticiper, de freiner à temps et d’éviter les collisions, surtout en cas d’imprévu.
+
+![Distance de sécurité entre deux véhicules](1_distance_securite_intro.jpg)
 
 > **Le saviez-vous ?**  
-> En Tunisie, une part importante des accidents corporels survient lors de situations prévisibles comme les intersections, les dépassements et les changements brusques de circulation.
+> Une grande partie des accidents corporels en Tunisie est liée à une **distance insuffisante** entre les véhicules, notamment en circulation urbaine dense et sur routes rapides.
 
 ---
 
-## 2. Les risques et dangers potentiels sur la route
+## 2. Les distances essentielles à respecter
 
-### 2.1 Les dangers liés à l’environnement routier
+### 2.1 La distance de sécurité entre véhicules
 
-L’environnement influence directement la sécurité de la circulation. Il peut évoluer rapidement et surprendre le conducteur.
+Tout conducteur doit laisser une **distance de sécurité suffisante** entre son véhicule et celui qui le précède afin d’éviter toute collision en cas de freinage brusque ou d’arrêt imprévu.
 
-* **L’état de la chaussée**
-  * Chaussée glissante à cause de la pluie, du sable ou de la boue.
-  * Déformations, nids-de-poule ou routes dégradées.
-  * Chaussée étroite limitant les manœuvres.
+![Illustration distance de sécurité](2_distance_securite.jpg)
 
-* **Les conditions de visibilité**
-  * Brouillard, pluie intense ou poussière.
-  * Conduite de nuit nécessitant l’utilisation correcte des feux.
-  * Éblouissement par le soleil ou par les feux des autres véhicules.
+**Principes simples à retenir :**
+- La distance doit **augmenter avec la vitesse**.
+- Elle doit être **adaptée aux conditions** :
+  - route mouillée,
+  - visibilité réduite,
+  - circulation dense,
+  - état du véhicule (freins, pneus).
 
-* **La signalisation**
-  * Panneaux absents, endommagés ou masqués.
-  * Marquage au sol effacé ou difficilement visible.
-  * Chantiers temporaires modifiant la circulation.
-
-![Dangers liés à l’environnement routier](1_dangers_environnement.jpg)
+**Repère pratique :**
+- En conditions normales, on recommande au minimum **2 secondes** d’écart avec le véhicule devant.
+- Par pluie ou visibilité réduite : **distance doublée**.
 
 ---
 
-### 2.2 Les dangers liés aux autres usagers
+### 2.2 La distance d’arrêt
 
-La route est un espace partagé entre des usagers aux comportements et aux capacités très différents.
+La distance d’arrêt correspond à la distance parcourue :
+- pendant le **temps de réaction**,
+- puis pendant le **freinage**.
 
-* **Les usagers vulnérables**
-  * Piétons, notamment les enfants, les personnes âgées et les personnes à mobilité réduite.
-  * Cyclistes et motocyclistes, moins visibles et moins protégés.
-  * Animaux isolés ou en troupeaux, surtout hors agglomération.
+![Distance de réaction et distance de freinage](3_distance_arret.jpg)
 
-* **Les comportements imprévisibles**
-  * Changements de direction sans signalisation.
-  * Non-respect des priorités aux intersections.
-  * Arrêts ou ralentissements soudains.
+Elle dépend directement :
+- de la **vitesse**,
+- de l’**état de la chaussée**,
+- de la **vigilance du conducteur**.
 
-* **Les véhicules spécifiques**
-  * Véhicules lents ou encombrants.
-  * Véhicules prioritaires en intervention signalée.
-
-![Dangers liés aux autres usagers](2_autres_usagers.jpg)
+👉 Plus la vitesse est élevée, plus la distance d’arrêt augmente fortement.
 
 ---
 
-### 2.3 Les dangers liés aux situations de circulation
+### 2.3 Les distances lors du dépassement
 
-Certaines situations de circulation augmentent fortement le risque d’accident.
+Lors d’un dépassement, le conducteur doit s’assurer que la voie est libre sur une **distance suffisante** pour effectuer la manœuvre sans danger.
 
-* **Les intersections**
-  * Visibilité insuffisante.
-  * Engagement sans s’assurer que la voie est libre.
-  * Congestion empêchant de dégager l’intersection.
+![Distance lors du dépassement](4_distance_depassment.jpg)
 
-* **Les dépassements**
-  * Distance insuffisante pour dépasser en sécurité.
-  * Mauvaise estimation de la vitesse des véhicules venant en sens inverse.
-  * Dépassement dans un virage ou sur une route à visibilité réduite.
+**Obligations essentielles :**
+- visibilité suffisante,
+- espace libre pour dépasser **et se rabattre**,
+- distance latérale suffisante avec le véhicule dépassé.
 
-* **La circulation dense**
-  * Files serrées augmentant le risque de collision arrière.
-  * Freinages brusques.
-  * Stress lié au trafic intense.
-
-![Situations de circulation dangereuses](3_circulation_dangereuse.jpg)
+Un dépassement mal évalué est l’une des situations les plus dangereuses sur route bidirectionnelle.
 
 ---
 
-### 2.4 Les dangers liés au non-respect des règles de circulation
+### 2.4 La distance latérale au croisement
 
-Le non-respect des règles constitue l’un des principaux facteurs de danger sur la route.
+Lors d’un croisement avec un autre véhicule, le conducteur doit laisser une **distance latérale suffisante**, et si nécessaire, serrer à droite ou réduire sa vitesse.
 
-* **La vitesse inadaptée**
-  * Réduction du champ de vision.
-  * Augmentation de la distance de freinage.
-  * Gravité accrue des accidents.
+![Distance latérale au croisement](5_distance_laterale.jpg)
 
-* **Le non-respect de la signalisation**
-  * Feux tricolores.
-  * Panneaux STOP et cédez-le-passage.
-  * Signaux des agents chargés de la circulation.
-
-* **Le manque de maîtrise du véhicule**
-  * Mauvaise anticipation des situations.
-  * Réactions tardives face au danger.
-  * Absence d’adaptation aux conditions de circulation.
-
-![Non-respect des règles de circulation](4_non_respect_regles.jpg)
+Cette distance est particulièrement importante :
+- sur routes étroites,
+- en présence de poids lourds,
+- avec les deux-roues ou les piétons.
 
 ---
 
-### 2.5 Anticiper pour éviter le danger
+### 2.5 Les distances avec les piétons et usagers vulnérables
 
-Anticiper, c’est observer loin, analyser la situation et adapter son comportement avant que le danger ne se manifeste.
+Le conducteur doit adapter sa distance et sa vitesse pour **faciliter le passage** :
+- des piétons,
+- des personnes âgées,
+- des enfants,
+- des personnes en situation de handicap.
 
-* Réduire sa vitesse lorsque la visibilité diminue.
-* Maintenir une distance de sécurité suffisante.
-* Adapter sa conduite à l’environnement et aux autres usagers.
-* Rester attentif en permanence aux changements de situation.
+![Distance avec les piétons](6_distance_pietons.jpg)
 
-![Anticipation du danger par le conducteur](5_anticipation_conducteur.jpg)
-
----
-
-## Le conseil du moniteur :
-
-> Un danger n’est jamais isolé. Il apparaît lorsque l’anticipation, l’observation ou l’adaptation font défaut. Une conduite prudente et attentive protège ta vie et celle des autres usagers.
+La prudence impose souvent :
+- de ralentir,
+- voire de s’arrêter complètement.
 
 ---
 
-## PROMPTS IMAGES (EN ANGLAIS)
+### 2.6 Distances et conditions particulières
 
-1. **Fichier :** 1_dangers_environnement.jpg  
-   **Prompt :** Road hazards caused by rain, fog, damaged road surface and poor visibility, modern educational vector illustration, flat design, clean lines, soft pastel colors, minimalist
+Certaines situations exigent des distances **beaucoup plus importantes** :
+- pluie,
+- brouillard,
+- nuit,
+- chaussée dégradée,
+- circulation sur autoroute.
 
-2. **Fichier :** 2_autres_usagers.jpg  
-   **Prompt :** Interaction between cars, pedestrians, cyclists and motorcycles in traffic, modern educational vector illustration, flat design, clean lines, soft pastel colors, minimalist
+![Distance par mauvais temps](7_distance_mauvais_temps.jpg)
 
-3. **Fichier :** 3_circulation_dangereuse.jpg  
-   **Prompt :** Dangerous traffic situations at intersections and during overtaking, modern educational vector illustration, flat design, clean lines, soft pastel colors, minimalist
+Dans ces cas :
+- la visibilité diminue,
+- l’adhérence baisse,
+- le temps de réaction augmente.
 
-4. **Fichier :** 4_non_respect_regles.jpg  
-   **Prompt :** Traffic rule violations such as speeding and ignoring traffic signs, modern educational vector illustration, flat design, clean lines, soft pastel colors, minimalist
+---
 
-5. **Fichier :** 5_anticipation_conducteur.jpg  
-   **Prompt :** Driver anticipating road dangers with focused attention, modern educational vector illustration, flat design, clean lines, soft pastel colors, minimalist
+### Le conseil du moniteur :
+
+> **Gardez toujours une marge de sécurité.**  
+> Une bonne distance ne fait pas perdre du temps, elle peut sauver des vies.
+
+---
+
+## 3. PROMPTS IMAGES (EN ANGLAIS)
+
+1. **Fichier :** 1_distance_securite_intro.jpg  
+   **Prompt :** Cars driving on a city road showing correct safety distance between vehicles, modern educational vector illustration, flat design, clean lines, soft pastel colors, minimalist
+
+2. **Fichier :** 2_distance_securite.jpg  
+   **Prompt :** Diagram explaining safety distance between two cars depending on speed, modern educational vector illustration, flat design, clean lines, soft pastel colors, minimalist
+
+3. **Fichier :** 3_distance_arret.jpg  
+   **Prompt :** Reaction distance and braking distance explained with arrows and car icons, modern educational vector illustration, flat design, clean lines, soft pastel colors, minimalist
+
+4. **Fichier :** 4_distance_depassment.jpg  
+   **Prompt :** Safe overtaking distance on a two-way road with clear visibility, modern educational vector illustration, flat design, clean lines, soft pastel colors, minimalist
+
+5. **Fichier :** 5_distance_laterale.jpg  
+   **Prompt :** Two vehicles crossing safely on a narrow road with lateral distance highlighted, modern educational vector illustration, flat design, clean lines, soft pastel colors, minimalist
+
+6. **Fichier :** 6_distance_pietons.jpg  
+   **Prompt :** Car slowing down near pedestrians at a crosswalk, modern educational vector illustration, flat design, clean lines, soft pastel colors, minimalist
+
+7. **Fichier :** 7_distance_mauvais_temps.jpg  
+   **Prompt :** Increased safety distance between cars in rainy weather, modern educational vector illustration, flat design, clean lines, soft pastel colors, minimalist
