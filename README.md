@@ -21,7 +21,7 @@ Pour t'aider à garder tes distances, il existe une formule simple pour calculer
 
 --Image of: --Infographie montrant la formule de calcul $(\text{Vitesse} \times 3/10)$ avec des exemples de compteurs de vitesse.
 
-### H3 Cas particuliers : Véhicules lourds et matières dangereuses
+###  Cas particuliers : Véhicules lourds et matières dangereuses
 Si tu conduis ou suis un véhicule imposant, les règles sont plus strictes hors agglomération et sur autoroute pour éviter les accidents en chaîne. Pour les véhicules de plus de **3500 kg** ou de plus de **7 mètres** de long, l'intervalle doit être au minimum de :
 *   **50 mètres** pour les camions et bus classiques.
 *   **75 mètres** pour les véhicules transportant des matières dangereuses.
@@ -69,3 +69,4 @@ Ne pas respecter ces distances est une faute qui peut coûter cher sur ton capit
 4.  **Fichier :** depassement_cycliste.jpg | **Prompt :** Modern educational vector illustration, flat design, clean lines, top view of a blue car overtaking a bicycle with a "1m" safety arrow, soft pastel colors, minimalist.
 5.  **Fichier :** parking_distances.jpg | **Prompt :** Modern educational vector illustration, flat design, clean lines, a car parked near an intersection showing the 3-meter safety gap from the corner, soft pastel colors, minimalist.
 6.  **Fichier :** sanction_20dt.jpg | **Prompt :** Modern educational vector illustration, flat design, clean lines, a Tunisian road sign showing a safe distance symbol next to a 20 DT coin icon, soft pastel colors, minimalist.
+
