@@ -1,124 +1,139 @@
-# Script Python pour générer le cours "Communiquer avec les autres" au format Markdown
-# Basé strictement sur le Code de la Route Tunisien (Loi n° 99-71)
-
-content = """
-# Module : Communiquer avec les autres 🗣️🚗
+# Module : Risques et Dangers
 
 ## 1. Introduction
-Conduire, ce n'est pas seulement manœuvrer un volant et des pédales. C'est avant tout une activité sociale ! Sur la route, tu n'es jamais seul. Pour éviter les conflits et les accidents, tu dois **informer** les autres de tes intentions et **comprendre** les leurs. Une bonne communication = zéro surprise = sécurité maximale.
 
-> **Le saviez-vous ?** 💡
-> En Tunisie, l'usage du klaxon est strictement réglementé. Contrairement aux habitudes populaires, il est **interdit la nuit** (entre le coucher et le lever du soleil) sur tout le territoire. Vous devez le remplacer par des appels de phares (appels lumineux).
+Sur la route, le danger n’apparaît jamais par hasard. Il résulte souvent d’une combinaison entre l’environnement, la circulation et le comportement des usagers. Identifier les situations dangereuses permet au conducteur d’anticiper, d’adapter sa conduite et d’éviter l’accident. La sécurité routière repose avant tout sur la capacité à reconnaître le risque avant qu’il ne devienne un danger réel.
 
----
-
-## 2. Les Clignotants : Ton langage principal 💡
-Le changement de direction sans avertissement est l'une des causes fréquentes d'accrochages.
-
-### La règle d'or : "Avant, pas pendant !"
-Tu dois actionner ton clignotant **suffisamment à l'avance** pour ne pas surprendre les autres usagers, mais pas trop tôt pour ne pas les induire en erreur.
-
-### Quand l'utiliser ?
-C'est obligatoire pour toute modification de trajectoire :
-* Changer de file (même sur autoroute).
-* Tourner à une intersection.
-* Sortir d'un stationnement.
-* Entrer et sortir d'un rond-point.
-* Démarrer ou s'arrêter sur le bord de la route.
-
-![Illustration vectorielle plate d'une voiture orange mettant son clignotant gauche avant de tourner, vue de dessus, style éducatif](1_clignotant_action.jpg)
+> **Le saviez-vous ?**  
+> En Tunisie, une part importante des accidents corporels survient lors de situations prévisibles comme les intersections, les dépassements et les changements brusques de circulation.
 
 ---
 
-## 3. Les Avertisseurs (Sonores et Lumineux) 🔊🔦
+## 2. Les risques et dangers potentiels sur la route
 
-### L'Avertisseur Sonore (Klaxon)
-En Tunisie, le klaxon est un outil d'urgence, pas d'agacement.
+### 2.1 Les dangers liés à l’environnement routier
 
-* **En agglomération :** L'usage est **INTERDIT**, sauf en cas de **danger imminent** (pour éviter un accident qui ne peut l'être autrement).
-* **Hors agglomération :** Autorisé pour avertir les autres usagers (par exemple avant un dépassement risqué sur une route étroite).
-* **La Nuit :** **INTERDIT PARTOUT**.
+L’environnement influence directement la sécurité de la circulation. Il peut évoluer rapidement et surprendre le conducteur.
 
-### L'Avertisseur Lumineux (Appels de phares)
-C'est l'alternative obligatoire au klaxon la nuit.
-* Utilisez de brefs appels de phares pour avertir un conducteur que vous allez dépasser.
-* Utile aux intersections ou aux sommets de côte la nuit pour signaler votre présence.
+* **L’état de la chaussée**
+  * Chaussée glissante à cause de la pluie, du sable ou de la boue.
+  * Déformations, nids-de-poule ou routes dégradées.
+  * Chaussée étroite limitant les manœuvres.
 
-![Illustration vectorielle divisée en deux : jour avec klaxon barré en ville, nuit avec phares allumés, style éducatif](2_klaxon_regles.jpg)
+* **Les conditions de visibilité**
+  * Brouillard, pluie intense ou poussière.
+  * Conduite de nuit nécessitant l’utilisation correcte des feux.
+  * Éblouissement par le soleil ou par les feux des autres véhicules.
 
----
+* **La signalisation**
+  * Panneaux absents, endommagés ou masqués.
+  * Marquage au sol effacé ou difficilement visible.
+  * Chantiers temporaires modifiant la circulation.
 
-## 4. Les Feux de Détresse et Feux Stop ⚠️
-
-### Les Feux de Détresse (Les "4 clignotants")
-Ils ne servent pas à se garer en double file pour acheter du pain ! Leur usage est strict :
-* Lorsque vous êtes le dernier véhicule d'une file ralentie (embouteillage soudain).
-* Si votre véhicule est en panne ou accidenté sur la chaussée.
-* Si vous roulez à allure anormalement réduite suite à un problème mécanique.
-
-### Les Feux Stop
-Ils s'allument automatiquement quand vous freinez.
-* **Conseil :** Si vous voyez un ralentissement loin devant, effleurez votre pédale de frein plusieurs fois pour faire clignoter vos feux stop et avertir ceux qui vous suivent.
-
-![Illustration vectorielle d'une voiture à l'arrêt avec les feux de détresse clignotants activés, vue arrière, style minimaliste](3_feux_detresse.jpg)
+![Dangers liés à l’environnement routier](1_dangers_environnement.jpg)
 
 ---
 
-## 5. Les Sanctions (Code de la Route Tunisien) ⚖️
-Le non-respect de ces règles entraîne des contraventions. Même si elles ne mènent pas à la prison, elles coûtent cher et peuvent mener à des accidents responsables.
+### 2.2 Les dangers liés aux autres usagers
 
-### Changement de direction sans signalisation (Clignotant)
-* 💸 **Amende :** 40 Dinars (Contravention de 2ème catégorie).
-* 📉 **Permis :** Risque réel en cas d'accident.
+La route est un espace partagé entre des usagers aux comportements et aux capacités très différents.
 
-### Usage abusif du Klaxon (Ville ou Nuit)
-* 💸 **Amende :** 20 Dinars (Contravention de 1ère catégorie).
+* **Les usagers vulnérables**
+  * Piétons, notamment les enfants, les personnes âgées et les personnes à mobilité réduite.
+  * Cyclistes et motocyclistes, moins visibles et moins protégés.
+  * Animaux isolés ou en troupeaux, surtout hors agglomération.
 
-### Véhicule sans dispositifs d'éclairage/signalisation fonctionnels
-* 💸 **Amende :** 60 Dinars (Contravention de 3ème catégorie).
-* 📝 **Mise en fourrière :** Possible si la conduite est jugée dangereuse (ex: aucun feu stop ne marche).
+* **Les comportements imprévisibles**
+  * Changements de direction sans signalisation.
+  * Non-respect des priorités aux intersections.
+  * Arrêts ou ralentissements soudains.
 
-![Illustration vectorielle d'un policier tunisien rédigeant une contravention à côté d'une voiture, style plat et doux](4_sanction_police.jpg)
+* **Les véhicules spécifiques**
+  * Véhicules lents ou encombrants.
+  * Véhicules prioritaires en intervention signalée.
 
----
-
-## 6. Résumé
-
-### 📝 Ce qu'il faut retenir pour l'examen
-
-| Outil | Usage Autorisé | Usage Interdit |
-| :--- | :--- | :--- |
-| **Clignotant** | **TOUJOURS** avant une manœuvre | L'oublier ou le mettre trop tard |
-| **Klaxon** | Danger immédiat | La nuit (partout) + En ville (sauf danger) |
-| **Appel de phares** | Pour avertir (Jour et Nuit) | Pour éblouir ou agresser |
-| **Feux de détresse** | Panne, Accident, Ralentissement | Stationnement gênant ("minute") |
-
-
-
-> **Le conseil du moniteur :**
-> "Communiquer, c'est bien, mais s'assurer d'être vu, c'est mieux ! Ne faites jamais confiance aveuglément à un clignotant : regardez toujours les roues et le regard de l'autre conducteur pour confirmer son intention." 👀🤝
+![Dangers liés aux autres usagers](2_autres_usagers.jpg)
 
 ---
 
-## 🎨 Prompts pour les illustrations (Style Vectoriel)
+### 2.3 Les dangers liés aux situations de circulation
 
-Voici les descriptions pour générer les images de ce cours :
+Certaines situations de circulation augmentent fortement le risque d’accident.
 
-1.  **Fichier :** `1_clignotant_action.jpg`
-    * **Prompt :** Modern educational vector illustration, flat design, top-down view of an orange car activating the left turn signal (blinking yellow light) before an intersection, grey road background, minimalist clean lines.
-2.  **Fichier :** `2_klaxon_regles.jpg`
-    * **Prompt :** Modern educational vector illustration, flat design, split screen: left side showing a city with a "No Horn" sign, right side showing a car at night using headlights (beams), soft pastel colors, educational icons.
-3.  **Fichier :** `3_feux_detresse.jpg`
-    * **Prompt :** Modern educational vector illustration, flat design, rear view of a modern car with both red tail lights and orange hazard lights glowing, symbol of a warning triangle nearby, minimalist style.
-4.  **Fichier :** `4_sanction_police.jpg`
-    * **Prompt :** Modern educational vector illustration, flat design, a friendly Tunisian police officer in uniform writing on a notepad next to a vehicle, traffic safety concept, soft blue and beige colors, clean lines.
-5.  **Fichier :** `5_eye_contact.jpg`
-    * **Prompt :** Modern educational vector illustration, flat design, close-up on a driver's eyes in the rear-view mirror making eye contact, symbolizing attention and communication, soft pastel colors, minimalist.
-"""
+* **Les intersections**
+  * Visibilité insuffisante.
+  * Engagement sans s’assurer que la voie est libre.
+  * Congestion empêchant de dégager l’intersection.
 
-filename = "Cours_Communication_Route_Tunisie.md"
+* **Les dépassements**
+  * Distance insuffisante pour dépasser en sécurité.
+  * Mauvaise estimation de la vitesse des véhicules venant en sens inverse.
+  * Dépassement dans un virage ou sur une route à visibilité réduite.
 
-with open(filename, "w", encoding="utf-8") as f:
-    f.write(content)
+* **La circulation dense**
+  * Files serrées augmentant le risque de collision arrière.
+  * Freinages brusques.
+  * Stress lié au trafic intense.
 
-print(f"Le fichier '{filename}' a été généré avec succès. Vous pouvez maintenant le télécharger.")
+![Situations de circulation dangereuses](3_circulation_dangereuse.jpg)
+
+---
+
+### 2.4 Les dangers liés au non-respect des règles de circulation
+
+Le non-respect des règles constitue l’un des principaux facteurs de danger sur la route.
+
+* **La vitesse inadaptée**
+  * Réduction du champ de vision.
+  * Augmentation de la distance de freinage.
+  * Gravité accrue des accidents.
+
+* **Le non-respect de la signalisation**
+  * Feux tricolores.
+  * Panneaux STOP et cédez-le-passage.
+  * Signaux des agents chargés de la circulation.
+
+* **Le manque de maîtrise du véhicule**
+  * Mauvaise anticipation des situations.
+  * Réactions tardives face au danger.
+  * Absence d’adaptation aux conditions de circulation.
+
+![Non-respect des règles de circulation](4_non_respect_regles.jpg)
+
+---
+
+### 2.5 Anticiper pour éviter le danger
+
+Anticiper, c’est observer loin, analyser la situation et adapter son comportement avant que le danger ne se manifeste.
+
+* Réduire sa vitesse lorsque la visibilité diminue.
+* Maintenir une distance de sécurité suffisante.
+* Adapter sa conduite à l’environnement et aux autres usagers.
+* Rester attentif en permanence aux changements de situation.
+
+![Anticipation du danger par le conducteur](5_anticipation_conducteur.jpg)
+
+---
+
+## Le conseil du moniteur :
+
+> Un danger n’est jamais isolé. Il apparaît lorsque l’anticipation, l’observation ou l’adaptation font défaut. Une conduite prudente et attentive protège ta vie et celle des autres usagers.
+
+---
+
+## PROMPTS IMAGES (EN ANGLAIS)
+
+1. **Fichier :** 1_dangers_environnement.jpg  
+   **Prompt :** Road hazards caused by rain, fog, damaged road surface and poor visibility, modern educational vector illustration, flat design, clean lines, soft pastel colors, minimalist
+
+2. **Fichier :** 2_autres_usagers.jpg  
+   **Prompt :** Interaction between cars, pedestrians, cyclists and motorcycles in traffic, modern educational vector illustration, flat design, clean lines, soft pastel colors, minimalist
+
+3. **Fichier :** 3_circulation_dangereuse.jpg  
+   **Prompt :** Dangerous traffic situations at intersections and during overtaking, modern educational vector illustration, flat design, clean lines, soft pastel colors, minimalist
+
+4. **Fichier :** 4_non_respect_regles.jpg  
+   **Prompt :** Traffic rule violations such as speeding and ignoring traffic signs, modern educational vector illustration, flat design, clean lines, soft pastel colors, minimalist
+
+5. **Fichier :** 5_anticipation_conducteur.jpg  
+   **Prompt :** Driver anticipating road dangers with focused attention, modern educational vector illustration, flat design, clean lines, soft pastel colors, minimalist
