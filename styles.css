@@ -1,0 +1,247 @@
+:root {
+  --bg: #f5efe4;
+  --panel: #fffaf2;
+  --panel-strong: #f0e2c8;
+  --text: #1f1b17;
+  --muted: #675e54;
+  --accent: #9d3d16;
+  --accent-soft: #f6d9b5;
+  --border: #ddceb6;
+  --shadow: 0 18px 40px rgba(68, 44, 23, 0.08);
+  --radius: 20px;
+  --sidebar-width: 360px;
+  --content-width: 920px;
+  --font-body: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  --font-title: Georgia, "Times New Roman", serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background:
+    radial-gradient(circle at top left, rgba(255, 232, 197, 0.75), transparent 28%),
+    linear-gradient(180deg, #f8f2e8 0%, var(--bg) 100%);
+  color: var(--text);
+  font-family: var(--font-body);
+}
+
+.layout {
+  min-height: 100vh;
+  display: grid;
+  grid-template-columns: minmax(280px, var(--sidebar-width)) minmax(0, 1fr);
+}
+
+.sidebar {
+  padding: 28px 20px;
+  background: rgba(255, 250, 242, 0.85);
+  backdrop-filter: blur(8px);
+  border-right: 1px solid var(--border);
+  position: sticky;
+  top: 0;
+  height: 100vh;
+  overflow: auto;
+}
+
+.brand {
+  padding: 10px 10px 24px;
+}
+
+.eyebrow {
+  margin: 0 0 8px;
+  color: var(--accent);
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-size: 0.75rem;
+}
+
+.brand h1,
+.content-header h2 {
+  margin: 0;
+  font-family: var(--font-title);
+  line-height: 1.1;
+}
+
+.brand h1 {
+  font-size: clamp(1.8rem, 3vw, 2.4rem);
+}
+
+.subtitle {
+  margin: 12px 0 0;
+  color: var(--muted);
+  line-height: 1.55;
+}
+
+.course-list {
+  display: grid;
+  gap: 10px;
+}
+
+.course-link {
+  appearance: none;
+  border: 1px solid var(--border);
+  background: var(--panel);
+  color: var(--text);
+  width: 100%;
+  text-align: left;
+  padding: 16px;
+  border-radius: 16px;
+  cursor: pointer;
+  transition: transform 0.15s ease, background 0.15s ease, border-color 0.15s ease;
+  box-shadow: 0 8px 18px rgba(68, 44, 23, 0.05);
+}
+
+.course-link:hover,
+.course-link:focus-visible {
+  transform: translateY(-1px);
+  border-color: #cba372;
+  outline: none;
+}
+
+.course-link.active {
+  background: linear-gradient(180deg, #fff5e8 0%, var(--accent-soft) 100%);
+  border-color: #c98a56;
+}
+
+.course-link strong {
+  display: block;
+  margin-bottom: 6px;
+  font-size: 1rem;
+}
+
+.course-link span {
+  color: var(--muted);
+  line-height: 1.45;
+  font-size: 0.92rem;
+}
+
+.content {
+  padding: 34px;
+}
+
+.content-header {
+  max-width: var(--content-width);
+  margin: 0 auto 22px;
+}
+
+.content-header h2 {
+  font-size: clamp(2rem, 4vw, 3rem);
+}
+
+.course-content {
+  max-width: var(--content-width);
+  margin: 0 auto;
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: clamp(22px, 3vw, 40px);
+}
+
+.course-content h1,
+.course-content h2,
+.course-content h3 {
+  font-family: var(--font-title);
+  line-height: 1.2;
+}
+
+.course-content h1 {
+  font-size: clamp(2rem, 3vw, 2.6rem);
+  margin: 0 0 22px;
+}
+
+.course-content h2 {
+  font-size: 1.55rem;
+  margin: 32px 0 14px;
+  padding-top: 12px;
+  border-top: 1px solid var(--border);
+}
+
+.course-content h3 {
+  font-size: 1.2rem;
+  margin: 24px 0 10px;
+}
+
+.course-content p,
+.course-content li,
+.course-content blockquote {
+  font-size: 1.02rem;
+  line-height: 1.8;
+}
+
+.course-content p,
+.course-content ul,
+.course-content ol,
+.course-content blockquote {
+  margin: 14px 0;
+}
+
+.course-content ul,
+.course-content ol {
+  padding-left: 24px;
+}
+
+.course-content blockquote {
+  margin: 18px 0;
+  padding: 16px 18px;
+  border-left: 4px solid var(--accent);
+  background: #fff1de;
+  border-radius: 0 14px 14px 0;
+}
+
+.course-content hr {
+  border: none;
+  height: 1px;
+  background: var(--border);
+  margin: 30px 0;
+}
+
+.course-content img {
+  display: block;
+  width: 100%;
+  margin: 22px auto;
+  border-radius: 18px;
+  border: 1px solid var(--border);
+  box-shadow: 0 12px 28px rgba(68, 44, 23, 0.08);
+}
+
+.course-content .image-caption {
+  margin: -8px 0 18px;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.loading,
+.error {
+  padding: 20px;
+  border-radius: 16px;
+}
+
+.loading {
+  background: #fff4e7;
+}
+
+.error {
+  background: #ffe6de;
+  color: #792b10;
+}
+
+@media (max-width: 960px) {
+  .layout {
+    grid-template-columns: 1fr;
+  }
+
+  .sidebar {
+    position: static;
+    height: auto;
+    border-right: 0;
+    border-bottom: 1px solid var(--border);
+  }
+
+  .content {
+    padding: 18px;
+  }
+}
